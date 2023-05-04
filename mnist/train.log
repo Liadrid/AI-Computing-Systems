@@ -1,0 +1,21 @@
+2023-05-04 11:58:03,731 Epoch [1/10], Loss: 0.2064
+2023-05-04 11:58:52,066 Epoch [1/10], Loss: 0.2074
+2023-05-04 11:59:08,755 Epoch [2/10], Loss: 0.0642
+2023-05-04 11:59:24,934 Epoch [3/10], Loss: 0.0469
+2023-05-04 11:59:40,638 Epoch [4/10], Loss: 0.0363
+2023-05-04 11:59:56,326 Epoch [5/10], Loss: 0.0310
+2023-05-04 12:00:12,005 Epoch [6/10], Loss: 0.0266
+2023-05-04 12:00:27,670 Epoch [7/10], Loss: 0.0237
+2023-05-04 12:00:43,370 Epoch [8/10], Loss: 0.0201
+2023-05-04 12:00:59,088 Epoch [9/10], Loss: 0.0169
+2023-05-04 12:01:14,784 Epoch [10/10], Loss: 0.0151
+2023-05-04 12:01:14,784 Training completed. Best loss is 0.015095600520625946, in epoch 10
+2023-05-04 12:01:16,788 Test Without Attack, Accuracy: 98.93%
+2023-05-04 12:04:17,026 Epoch [1/1], Loss: 0.1989
+2023-05-04 12:04:17,027 Training completed. Best loss is 0.19893339585245898, in epoch 1
+2023-05-04 12:04:18,839 Test Without Attack, Accuracy: 98.03%
+2023-05-04 12:04:21,203 Test With Attack, Method: fsgm, Epsilon: 0.2, Accuracy: 45.30%
+2023-05-04 12:04:52,390 Epoch [1/1], Loss: 0.2090
+2023-05-04 12:04:52,391 Training completed. Best loss is 0.20899625825248658, in epoch 1
+2023-05-04 12:04:54,299 Test Without Attack, Accuracy: 97.48%
+2023-05-04 12:04:56,664 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 47.03%
