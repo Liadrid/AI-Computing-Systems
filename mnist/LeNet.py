@@ -83,6 +83,9 @@ class LeNetTrainer:
     def save(self):
         torch.save(self.model.state_dict(), self.config.save_path)
 
+    def load(self):
+        self.model.load_state_dict(torch.load(self.config.save_path))
+
     def test_with_attack(self, test_loader):
         self.model.eval()
         correct = 0
