@@ -1,8 +1,8 @@
 import torchvision
 import torchvision.transforms as transforms
 
-from Configs import Configs
-from LeNet import *
+from configs import Configs
+from lenet import *
 
 transform = transforms.Compose(
     [transforms.ToTensor(),
@@ -14,9 +14,8 @@ test_set = torchvision.datasets.MNIST(root='./dataset', train=False, download=Tr
 train_loader = torch.utils.data.DataLoader(train_set, batch_size=32, shuffle=True)
 test_loader = torch.utils.data.DataLoader(test_set, batch_size=32, shuffle=True)
 
-config = Configs()
-config.parse()
-trainer = LeNetTrainer(config)
+
+trainer = LeNetTrainer()
 
 if __name__ == '__main__':
     trainer.train(train_loader)

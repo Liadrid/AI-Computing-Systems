@@ -2,14 +2,14 @@ import argparse
 
 
 class Configs:
-    def __init__(self):
+    def __init__(self, model='LeNet', attack='fsgm'):
         self.lr = 0.001
         self.num_epochs = 30
         self.device = 'cuda'
         self.seed = 1
-        self.save_path = './model_save.pth'
-        self.model = 'LeNet'
-        self.attack = 'fsgm'
+        self.save_path = f'./{model}/model_save.pth'
+        self.model = model
+        self.attack = attack
         self.epsilon = 0.1
 
     def parse(self):
