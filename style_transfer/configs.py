@@ -2,15 +2,20 @@ import argparse
 
 
 class Configs:
-    def __init__(self, model='LeNet'):
-        self.lr = 0.001
-        self.num_epochs = 30
+    def __init__(self, model='naive_neural'):
+        self.lr = 0.3
+        self.num_epochs = 500
+        self.lr_decay_epochs = 50
         self.device = 'cuda'
         self.seed = 1
-        self.save_path = f'./{model}/model_save.pth'
+        self.save_path = f'./{model}/out.png'
         self.model = model
-        self.epsilon = 0.1
-        self.adverse_train = True
+
+        # 总loss： 风格损失1000：content损失1：全变分损失10
+        self.style_weight = 1000
+        self.content_weight = 1
+        self.tv_weight = 10
+        self.img_size = (450, 300)
 
     def parse(self):
         parser = argparse.ArgumentParser()
@@ -19,8 +24,10 @@ class Configs:
         parser.add_argument('-lr', type=float)
         parser.add_argument('-seed', type=int)
         parser.add_argument('-save_path', type=str)
-        parser.add_argument('-model', type=str, choices=['LeNet', 'ResNet'])
-        parser.add_argument('-epsilon', type=float)
+        parser.add_argument('-model', type=str, choices=['naive_neural', 'fast_neural'])
+        parser.add_argument('-style_weight', type=int)
+        parser.add_argument('-content_weight', type=int)
+        parser.add_argument('_tv_weight', type=int)
 
         args = parser.parse_args()
 

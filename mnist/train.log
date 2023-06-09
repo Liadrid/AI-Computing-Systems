@@ -19,22 +19,2236 @@
 2023-05-04 12:04:52,391 Training completed. Best loss is 0.20899625825248658, in epoch 1
 2023-05-04 12:04:54,299 Test Without Attack, Accuracy: 97.48%
 2023-05-04 12:04:56,664 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 47.03%
-2023-05-04 18:28:19,743 Epoch [1/30], Loss: 0.1781
-2023-05-04 18:28:39,325 Epoch [2/30], Loss: 0.0593
-2023-05-04 18:28:58,485 Epoch [3/30], Loss: 0.0435
-2023-05-04 18:29:17,633 Epoch [4/30], Loss: 0.0350
-2023-05-04 18:29:36,745 Epoch [5/30], Loss: 0.0299
-2023-05-04 18:29:55,792 Epoch [6/30], Loss: 0.0254
-2023-05-04 18:30:14,913 Epoch [7/30], Loss: 0.0215
-2023-05-04 18:30:34,031 Epoch [8/30], Loss: 0.0196
-2023-05-04 18:30:53,030 Epoch [9/30], Loss: 0.0164
-2023-05-04 18:31:12,050 Epoch [10/30], Loss: 0.0151
-2023-05-04 18:31:31,177 Epoch [11/30], Loss: 0.0135
-2023-05-04 18:31:50,350 Epoch [12/30], Loss: 0.0135
-2023-05-04 18:32:09,982 Epoch [13/30], Loss: 0.0110
-2023-05-04 18:32:29,113 Epoch [14/30], Loss: 0.0125
-2023-05-04 18:32:48,295 Epoch [15/30], Loss: 0.0094
-2023-05-04 18:33:08,623 Epoch [16/30], Loss: 0.0093
-2023-05-04 18:33:27,702 Epoch [17/30], Loss: 0.0104
-2023-05-04 18:33:46,769 Epoch [18/30], Loss: 0.0071
-2023-05-04 18:34:06,707 Epoch [19/30], Loss: 0.0088
+2023-05-04 15:27:43,543 Epoch [1/100], Loss: 0.1954
+2023-05-04 15:27:54,640 Test Without Attack, Accuracy: 97.79%
+2023-05-04 15:27:56,732 Test Without Attack, Accuracy: 97.95%
+2023-05-04 15:27:59,847 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 87.39%
+2023-05-04 15:28:02,940 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 82.49%
+2023-05-04 15:28:05,945 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 91.10%
+2023-05-04 15:28:08,857 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 91.02%
+2023-05-04 15:28:25,248 Epoch [2/100], Loss: 0.0628
+2023-05-04 15:28:36,317 Test Without Attack, Accuracy: 98.62%
+2023-05-04 15:28:38,110 Test Without Attack, Accuracy: 98.53%
+2023-05-04 15:28:41,037 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 87.26%
+2023-05-04 15:28:43,976 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 82.28%
+2023-05-04 15:29:14,672 Epoch [1/3], Loss: 0.2096
+2023-05-04 15:29:25,386 Test Without Attack, Accuracy: 96.80%
+2023-05-04 15:29:27,171 Test Without Attack, Accuracy: 97.07%
+2023-05-04 15:29:30,086 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 91.32%
+2023-05-04 15:29:32,970 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 87.77%
+2023-05-04 15:29:35,780 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 94.34%
+2023-05-04 15:29:38,592 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 94.30%
+2023-05-04 15:29:54,573 Epoch [2/3], Loss: 0.0642
+2023-05-04 15:30:05,281 Test Without Attack, Accuracy: 98.61%
+2023-05-04 15:30:07,051 Test Without Attack, Accuracy: 98.43%
+2023-05-04 15:30:09,944 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 93.95%
+2023-05-04 15:30:12,861 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 91.02%
+2023-05-04 15:30:15,692 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.04%
+2023-05-04 15:30:18,495 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 95.95%
+2023-05-04 15:30:34,538 Epoch [3/3], Loss: 0.0467
+2023-05-04 15:30:45,217 Test Without Attack, Accuracy: 98.78%
+2023-05-04 15:30:47,016 Test Without Attack, Accuracy: 98.53%
+2023-05-04 15:30:49,953 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 93.52%
+2023-05-04 15:30:52,847 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 89.92%
+2023-05-04 15:30:55,664 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.03%
+2023-05-04 15:30:58,477 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.01%
+2023-05-04 15:30:58,478 Training completed. Best loss is 0.04671822112907345, in epoch 3
+2023-05-04 15:32:51,442 Epoch [1/1], Loss: 0.2222
+2023-05-04 15:33:02,596 Test Without Attack, Accuracy: 97.63%
+2023-05-04 15:33:04,411 Test Without Attack, Accuracy: 97.71%
+2023-05-04 15:33:07,307 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 42.27%
+2023-05-04 15:33:10,221 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 37.95%
+2023-05-04 15:33:13,060 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 46.37%
+2023-05-04 15:33:15,952 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 46.35%
+2023-05-04 15:33:15,952 Training completed. Best loss is 0.22224023612861832, in epoch 1
+2023-05-04 15:34:00,344 Epoch [1/1], Loss: 0.1924
+2023-05-04 15:34:11,719 Test Without Attack, Accuracy: 97.88%
+2023-05-04 15:34:13,597 Test Without Attack, Accuracy: 98.08%
+2023-05-04 15:34:16,815 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 85.48%
+2023-05-04 15:34:19,947 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 80.82%
+2023-05-04 15:34:22,970 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 88.93%
+2023-05-04 15:34:26,081 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 88.87%
+2023-05-04 15:34:26,081 Training completed. Best loss is 0.19241384548818072, in epoch 1
+2023-05-04 15:34:59,826 Epoch [1/100], Loss: 0.2017
+2023-05-04 15:35:10,428 Test Without Attack, Accuracy: 97.98%
+2023-05-04 15:35:12,213 Test Without Attack, Accuracy: 98.18%
+2023-05-04 15:35:15,105 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 94.22%
+2023-05-04 15:35:17,931 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 90.84%
+2023-05-04 15:35:20,695 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.66%
+2023-05-04 15:35:23,444 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.52%
+2023-05-04 15:35:39,623 Epoch [2/100], Loss: 0.0602
+2023-05-04 15:35:51,309 Test Without Attack, Accuracy: 98.59%
+2023-05-04 15:35:53,037 Test Without Attack, Accuracy: 98.46%
+2023-05-04 15:35:55,888 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 93.22%
+2023-05-04 15:35:58,727 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 89.11%
+2023-05-04 15:36:01,684 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.12%
+2023-05-04 15:36:04,487 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.06%
+2023-05-04 15:36:21,207 Epoch [3/100], Loss: 0.0465
+2023-05-04 15:36:31,773 Test Without Attack, Accuracy: 98.94%
+2023-05-04 15:36:33,535 Test Without Attack, Accuracy: 98.63%
+2023-05-04 15:36:36,360 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.11%
+2023-05-04 15:36:39,202 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.53%
+2023-05-04 15:36:41,955 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.73%
+2023-05-04 15:36:44,765 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.71%
+2023-05-04 15:37:00,493 Epoch [4/100], Loss: 0.0360
+2023-05-04 15:37:11,902 Test Without Attack, Accuracy: 99.25%
+2023-05-04 15:37:13,706 Test Without Attack, Accuracy: 98.93%
+2023-05-04 15:37:16,694 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.01%
+2023-05-04 15:37:19,558 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.80%
+2023-05-04 15:37:22,288 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.83%
+2023-05-04 15:37:25,032 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.74%
+2023-05-04 15:37:40,416 Epoch [5/100], Loss: 0.0318
+2023-05-04 15:37:50,746 Test Without Attack, Accuracy: 98.78%
+2023-05-04 15:37:52,468 Test Without Attack, Accuracy: 98.58%
+2023-05-04 15:37:55,341 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 94.81%
+2023-05-04 15:37:58,363 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 91.86%
+2023-05-04 15:38:01,521 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.91%
+2023-05-04 15:38:04,301 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.83%
+2023-05-04 15:38:19,772 Epoch [6/100], Loss: 0.0248
+2023-05-04 15:38:30,303 Test Without Attack, Accuracy: 99.29%
+2023-05-04 15:38:32,085 Test Without Attack, Accuracy: 98.80%
+2023-05-04 15:38:34,936 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.42%
+2023-05-04 15:38:37,776 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.79%
+2023-05-04 15:38:40,591 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.05%
+2023-05-04 15:38:43,327 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.92%
+2023-05-04 15:38:59,516 Epoch [7/100], Loss: 0.0219
+2023-05-04 15:39:10,548 Test Without Attack, Accuracy: 99.38%
+2023-05-04 15:39:12,298 Test Without Attack, Accuracy: 98.74%
+2023-05-04 15:39:15,105 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.53%
+2023-05-04 15:39:18,035 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.03%
+2023-05-04 15:39:20,783 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.22%
+2023-05-04 15:39:23,508 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.13%
+2023-05-04 15:39:39,382 Epoch [8/100], Loss: 0.0197
+2023-05-04 15:39:50,838 Test Without Attack, Accuracy: 99.59%
+2023-05-04 15:39:52,627 Test Without Attack, Accuracy: 98.99%
+2023-05-04 15:39:55,538 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.61%
+2023-05-04 15:39:58,751 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.23%
+2023-05-04 15:40:01,595 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.24%
+2023-05-04 15:40:04,358 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.21%
+2023-05-04 15:40:19,732 Epoch [9/100], Loss: 0.0172
+2023-05-04 15:40:30,184 Test Without Attack, Accuracy: 99.44%
+2023-05-04 15:40:31,909 Test Without Attack, Accuracy: 98.94%
+2023-05-04 15:40:34,735 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 94.67%
+2023-05-04 15:40:37,553 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 91.02%
+2023-05-04 15:40:40,324 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.93%
+2023-05-04 15:40:43,057 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.90%
+2023-05-04 15:40:58,505 Epoch [10/100], Loss: 0.0157
+2023-05-04 15:41:08,942 Test Without Attack, Accuracy: 99.71%
+2023-05-04 15:41:10,671 Test Without Attack, Accuracy: 98.91%
+2023-05-04 15:41:13,463 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.98%
+2023-05-04 15:41:16,314 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.33%
+2023-05-04 15:41:19,028 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.31%
+2023-05-04 15:41:21,750 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.26%
+2023-05-04 15:41:37,375 Epoch [11/100], Loss: 0.0146
+2023-05-04 15:41:47,911 Test Without Attack, Accuracy: 99.50%
+2023-05-04 15:41:49,631 Test Without Attack, Accuracy: 98.73%
+2023-05-04 15:41:52,454 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.41%
+2023-05-04 15:41:55,285 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.99%
+2023-05-04 15:41:58,017 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.95%
+2023-05-04 15:42:00,803 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.89%
+2023-05-04 15:42:16,752 Epoch [12/100], Loss: 0.0128
+2023-05-04 15:42:27,845 Test Without Attack, Accuracy: 99.72%
+2023-05-04 15:42:29,690 Test Without Attack, Accuracy: 99.01%
+2023-05-04 15:42:32,515 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.68%
+2023-05-04 15:42:35,297 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.30%
+2023-05-04 15:42:38,002 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.36%
+2023-05-04 15:42:40,869 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.29%
+2023-05-04 15:42:56,668 Epoch [13/100], Loss: 0.0120
+2023-05-04 15:43:07,186 Test Without Attack, Accuracy: 99.61%
+2023-05-04 15:43:09,008 Test Without Attack, Accuracy: 98.95%
+2023-05-04 15:43:12,140 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.31%
+2023-05-04 15:43:15,156 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.60%
+2023-05-04 15:43:18,067 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.11%
+2023-05-04 15:43:20,874 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.99%
+2023-05-04 15:43:36,457 Epoch [14/100], Loss: 0.0109
+2023-05-04 15:43:46,994 Test Without Attack, Accuracy: 99.83%
+2023-05-04 15:43:48,734 Test Without Attack, Accuracy: 98.91%
+2023-05-04 15:43:51,585 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.75%
+2023-05-04 15:43:54,418 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.17%
+2023-05-04 15:43:57,150 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.25%
+2023-05-04 15:43:59,899 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.20%
+2023-05-04 15:44:15,521 Epoch [15/100], Loss: 0.0103
+2023-05-04 15:44:26,032 Test Without Attack, Accuracy: 99.79%
+2023-05-04 15:44:27,780 Test Without Attack, Accuracy: 98.96%
+2023-05-04 15:44:30,622 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.93%
+2023-05-04 15:44:33,467 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.69%
+2023-05-04 15:44:36,227 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.38%
+2023-05-04 15:44:38,978 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.30%
+2023-05-04 15:44:54,556 Epoch [16/100], Loss: 0.0119
+2023-05-04 15:45:05,025 Test Without Attack, Accuracy: 99.82%
+2023-05-04 15:45:06,778 Test Without Attack, Accuracy: 99.01%
+2023-05-04 15:45:09,568 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.45%
+2023-05-04 15:45:12,377 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.04%
+2023-05-04 15:45:15,100 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.09%
+2023-05-04 15:45:17,825 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.99%
+2023-05-04 15:45:33,464 Epoch [17/100], Loss: 0.0088
+2023-05-04 15:45:43,927 Test Without Attack, Accuracy: 99.72%
+2023-05-04 15:45:45,705 Test Without Attack, Accuracy: 98.89%
+2023-05-04 15:45:48,557 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.52%
+2023-05-04 15:45:51,388 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.27%
+2023-05-04 15:45:54,128 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.95%
+2023-05-04 15:45:56,887 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.87%
+2023-05-04 15:46:12,650 Epoch [18/100], Loss: 0.0090
+2023-05-04 15:46:23,592 Test Without Attack, Accuracy: 99.71%
+2023-05-04 15:46:25,516 Test Without Attack, Accuracy: 98.89%
+2023-05-04 15:46:28,549 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.12%
+2023-05-04 15:46:31,384 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.03%
+2023-05-04 15:46:34,144 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.39%
+2023-05-04 15:46:37,115 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.33%
+2023-05-04 15:46:53,884 Epoch [19/100], Loss: 0.0099
+2023-05-04 15:47:05,923 Test Without Attack, Accuracy: 99.78%
+2023-05-04 15:47:08,032 Test Without Attack, Accuracy: 98.99%
+2023-05-04 15:47:11,395 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.80%
+2023-05-04 15:47:14,663 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.49%
+2023-05-04 15:47:17,609 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.30%
+2023-05-04 15:47:20,690 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.25%
+2023-05-04 15:47:37,802 Epoch [20/100], Loss: 0.0096
+2023-05-04 15:47:48,977 Test Without Attack, Accuracy: 99.75%
+2023-05-04 15:47:50,833 Test Without Attack, Accuracy: 98.73%
+2023-05-04 15:47:53,940 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.78%
+2023-05-04 15:47:57,058 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.46%
+2023-05-04 15:48:00,071 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.13%
+2023-05-04 15:48:03,133 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.05%
+2023-05-04 15:48:20,065 Epoch [21/100], Loss: 0.0087
+2023-05-04 15:48:31,310 Test Without Attack, Accuracy: 99.86%
+2023-05-04 15:48:33,192 Test Without Attack, Accuracy: 98.99%
+2023-05-04 15:48:36,314 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.77%
+2023-05-04 15:48:39,344 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.15%
+2023-05-04 15:48:42,497 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.29%
+2023-05-04 15:48:45,500 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.19%
+2023-05-04 15:49:03,410 Epoch [22/100], Loss: 0.0079
+2023-05-04 15:49:14,677 Test Without Attack, Accuracy: 99.68%
+2023-05-04 15:49:16,583 Test Without Attack, Accuracy: 98.69%
+2023-05-04 15:49:19,631 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.94%
+2023-05-04 15:49:22,850 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.27%
+2023-05-04 15:49:25,936 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.81%
+2023-05-04 15:49:29,093 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.69%
+2023-05-04 15:49:46,545 Epoch [23/100], Loss: 0.0086
+2023-05-04 15:49:58,033 Test Without Attack, Accuracy: 99.87%
+2023-05-04 15:49:59,945 Test Without Attack, Accuracy: 99.01%
+2023-05-04 15:50:03,309 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.17%
+2023-05-04 15:50:06,594 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.04%
+2023-05-04 15:50:09,525 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.43%
+2023-05-04 15:50:12,661 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.33%
+2023-05-04 15:50:29,594 Epoch [24/100], Loss: 0.0071
+2023-05-04 15:50:41,301 Test Without Attack, Accuracy: 99.89%
+2023-05-04 15:50:43,286 Test Without Attack, Accuracy: 99.00%
+2023-05-04 15:50:46,563 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.87%
+2023-05-04 15:50:49,818 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.51%
+2023-05-04 15:50:53,013 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.45%
+2023-05-04 15:50:56,233 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.35%
+2023-05-04 15:51:13,566 Epoch [25/100], Loss: 0.0079
+2023-05-04 15:51:25,297 Test Without Attack, Accuracy: 99.91%
+2023-05-04 15:51:27,298 Test Without Attack, Accuracy: 99.04%
+2023-05-04 15:51:30,541 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.61%
+2023-05-04 15:51:33,704 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.82%
+2023-05-04 15:51:36,764 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.28%
+2023-05-04 15:51:39,768 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.24%
+2023-05-04 15:51:57,192 Epoch [26/100], Loss: 0.0053
+2023-05-04 15:52:09,105 Test Without Attack, Accuracy: 99.79%
+2023-05-04 15:52:11,043 Test Without Attack, Accuracy: 98.87%
+2023-05-04 15:52:14,209 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.64%
+2023-05-04 15:52:17,240 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.41%
+2023-05-04 15:52:20,279 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.18%
+2023-05-04 15:52:23,280 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.10%
+2023-05-04 15:52:40,274 Epoch [27/100], Loss: 0.0089
+2023-05-04 15:52:51,620 Test Without Attack, Accuracy: 99.70%
+2023-05-04 15:52:53,595 Test Without Attack, Accuracy: 98.84%
+2023-05-04 15:52:56,638 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.56%
+2023-05-04 15:52:59,719 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.18%
+2023-05-04 15:53:02,849 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.25%
+2023-05-04 15:53:05,798 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.16%
+2023-05-04 15:53:23,561 Epoch [28/100], Loss: 0.0047
+2023-05-04 15:53:35,428 Test Without Attack, Accuracy: 99.85%
+2023-05-04 15:53:37,421 Test Without Attack, Accuracy: 98.87%
+2023-05-04 15:53:40,650 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.99%
+2023-05-04 15:53:43,971 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.95%
+2023-05-04 15:53:47,144 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.36%
+2023-05-04 15:53:50,341 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.30%
+2023-05-04 15:54:08,046 Epoch [29/100], Loss: 0.0072
+2023-05-04 15:54:20,269 Test Without Attack, Accuracy: 99.78%
+2023-05-04 15:54:22,145 Test Without Attack, Accuracy: 98.98%
+2023-05-04 15:54:25,138 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.46%
+2023-05-04 15:54:28,239 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.30%
+2023-05-04 15:54:31,251 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.11%
+2023-05-04 15:54:34,302 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.98%
+2023-05-04 15:54:51,375 Epoch [30/100], Loss: 0.0066
+2023-05-04 15:55:02,774 Test Without Attack, Accuracy: 99.84%
+2023-05-04 15:55:04,639 Test Without Attack, Accuracy: 99.00%
+2023-05-04 15:55:07,719 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.99%
+2023-05-04 15:55:10,837 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.44%
+2023-05-04 15:55:13,937 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.26%
+2023-05-04 15:55:16,960 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.20%
+2023-05-04 15:55:34,051 Epoch [31/100], Loss: 0.0062
+2023-05-04 15:55:45,127 Test Without Attack, Accuracy: 99.89%
+2023-05-04 15:55:46,968 Test Without Attack, Accuracy: 99.05%
+2023-05-04 15:55:49,996 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.69%
+2023-05-04 15:55:53,044 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.45%
+2023-05-04 15:55:55,918 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.24%
+2023-05-04 15:55:58,806 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.16%
+2023-05-04 15:56:15,895 Epoch [32/100], Loss: 0.0052
+2023-05-04 15:56:27,189 Test Without Attack, Accuracy: 99.87%
+2023-05-04 15:56:29,066 Test Without Attack, Accuracy: 98.82%
+2023-05-04 15:56:32,398 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.47%
+2023-05-04 15:56:35,525 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.21%
+2023-05-04 15:56:38,789 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.98%
+2023-05-04 15:56:41,974 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.91%
+2023-05-04 15:56:59,456 Epoch [33/100], Loss: 0.0079
+2023-05-04 15:57:11,085 Test Without Attack, Accuracy: 99.90%
+2023-05-04 15:57:13,180 Test Without Attack, Accuracy: 98.90%
+2023-05-04 15:57:16,547 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.46%
+2023-05-04 15:57:19,839 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.01%
+2023-05-04 15:57:22,867 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.13%
+2023-05-04 15:57:25,905 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.04%
+2023-05-04 15:57:43,995 Epoch [34/100], Loss: 0.0046
+2023-05-04 15:57:55,619 Test Without Attack, Accuracy: 99.59%
+2023-05-04 15:57:57,517 Test Without Attack, Accuracy: 98.71%
+2023-05-04 15:58:00,479 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.60%
+2023-05-04 15:58:03,658 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.87%
+2023-05-04 15:58:06,543 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.75%
+2023-05-04 15:58:09,436 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.68%
+2023-05-04 15:58:26,238 Epoch [35/100], Loss: 0.0065
+2023-05-04 15:58:37,233 Test Without Attack, Accuracy: 99.91%
+2023-05-04 15:58:39,224 Test Without Attack, Accuracy: 99.00%
+2023-05-04 15:58:42,386 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.36%
+2023-05-04 15:58:45,685 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.95%
+2023-05-04 15:58:48,962 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.88%
+2023-05-04 15:58:52,028 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.80%
+2023-05-04 15:59:09,854 Epoch [36/100], Loss: 0.0071
+2023-05-04 15:59:21,438 Test Without Attack, Accuracy: 99.73%
+2023-05-04 15:59:23,384 Test Without Attack, Accuracy: 98.75%
+2023-05-04 15:59:26,543 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.32%
+2023-05-04 15:59:29,686 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.73%
+2023-05-04 15:59:32,797 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.16%
+2023-05-04 15:59:35,897 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.05%
+2023-05-04 15:59:53,791 Epoch [37/100], Loss: 0.0067
+2023-05-04 16:00:05,879 Test Without Attack, Accuracy: 99.89%
+2023-05-04 16:00:07,857 Test Without Attack, Accuracy: 99.03%
+2023-05-04 16:00:11,107 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.76%
+2023-05-04 16:00:14,362 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.44%
+2023-05-04 16:00:17,594 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.31%
+2023-05-04 16:00:20,837 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.17%
+2023-05-04 16:00:38,474 Epoch [38/100], Loss: 0.0037
+2023-05-04 16:00:50,022 Test Without Attack, Accuracy: 99.87%
+2023-05-04 16:00:51,946 Test Without Attack, Accuracy: 98.99%
+2023-05-04 16:00:55,101 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.52%
+2023-05-04 16:00:58,345 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.33%
+2023-05-04 16:01:01,620 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.95%
+2023-05-04 16:01:04,912 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.90%
+2023-05-04 16:01:22,715 Epoch [39/100], Loss: 0.0076
+2023-05-04 16:01:34,412 Test Without Attack, Accuracy: 99.94%
+2023-05-04 16:01:36,376 Test Without Attack, Accuracy: 99.04%
+2023-05-04 16:01:39,660 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.07%
+2023-05-04 16:01:42,937 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.99%
+2023-05-04 16:01:46,128 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.37%
+2023-05-04 16:01:49,102 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.31%
+2023-05-04 16:02:06,825 Epoch [40/100], Loss: 0.0041
+2023-05-04 16:02:18,736 Test Without Attack, Accuracy: 99.83%
+2023-05-04 16:02:20,605 Test Without Attack, Accuracy: 99.01%
+2023-05-04 16:02:23,693 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.79%
+2023-05-04 16:02:26,833 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.56%
+2023-05-04 16:02:29,855 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.25%
+2023-05-04 16:02:32,952 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.19%
+2023-05-04 16:02:50,704 Epoch [41/100], Loss: 0.0069
+2023-05-04 16:03:02,357 Test Without Attack, Accuracy: 99.83%
+2023-05-04 16:03:04,315 Test Without Attack, Accuracy: 98.76%
+2023-05-04 16:03:07,462 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.41%
+2023-05-04 16:03:10,538 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.87%
+2023-05-04 16:03:13,644 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.08%
+2023-05-04 16:03:16,674 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.99%
+2023-05-04 16:03:34,212 Epoch [42/100], Loss: 0.0065
+2023-05-04 16:03:45,608 Test Without Attack, Accuracy: 99.89%
+2023-05-04 16:03:47,463 Test Without Attack, Accuracy: 98.91%
+2023-05-04 16:03:50,503 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.72%
+2023-05-04 16:03:53,660 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.06%
+2023-05-04 16:03:56,798 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.32%
+2023-05-04 16:03:59,983 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.24%
+2023-05-04 16:04:17,919 Epoch [43/100], Loss: 0.0057
+2023-05-04 16:04:29,833 Test Without Attack, Accuracy: 99.74%
+2023-05-04 16:04:31,831 Test Without Attack, Accuracy: 98.64%
+2023-05-04 16:04:35,061 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.41%
+2023-05-04 16:04:38,492 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.71%
+2023-05-04 16:04:41,723 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.85%
+2023-05-04 16:04:44,797 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.78%
+2023-05-04 16:05:02,559 Epoch [44/100], Loss: 0.0049
+2023-05-04 16:05:13,988 Test Without Attack, Accuracy: 99.77%
+2023-05-04 16:05:15,854 Test Without Attack, Accuracy: 98.74%
+2023-05-04 16:05:19,024 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.06%
+2023-05-04 16:05:22,318 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.64%
+2023-05-04 16:05:25,464 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.74%
+2023-05-04 16:05:28,505 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.68%
+2023-05-04 16:05:46,060 Epoch [45/100], Loss: 0.0075
+2023-05-04 16:05:57,591 Test Without Attack, Accuracy: 99.87%
+2023-05-04 16:05:59,554 Test Without Attack, Accuracy: 99.00%
+2023-05-04 16:06:02,896 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.35%
+2023-05-04 16:06:06,069 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.55%
+2023-05-04 16:06:09,095 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.16%
+2023-05-04 16:06:12,046 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.08%
+2023-05-04 16:06:28,708 Epoch [46/100], Loss: 0.0042
+2023-05-04 16:06:39,597 Test Without Attack, Accuracy: 99.86%
+2023-05-04 16:06:41,408 Test Without Attack, Accuracy: 98.88%
+2023-05-04 16:06:44,327 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.44%
+2023-05-04 16:06:47,422 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.96%
+2023-05-04 16:06:50,388 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.98%
+2023-05-04 16:06:53,382 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.91%
+2023-05-04 16:07:09,944 Epoch [47/100], Loss: 0.0067
+2023-05-04 16:07:21,026 Test Without Attack, Accuracy: 99.76%
+2023-05-04 16:07:22,855 Test Without Attack, Accuracy: 98.76%
+2023-05-04 16:07:25,924 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.57%
+2023-05-04 16:07:29,012 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.84%
+2023-05-04 16:07:32,025 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.28%
+2023-05-04 16:07:34,882 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.16%
+2023-05-04 16:07:51,811 Epoch [48/100], Loss: 0.0061
+2023-05-04 16:08:02,921 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:08:04,912 Test Without Attack, Accuracy: 98.97%
+2023-05-04 16:08:07,981 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.51%
+2023-05-04 16:08:10,952 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.73%
+2023-05-04 16:08:14,015 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.17%
+2023-05-04 16:08:17,028 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.13%
+2023-05-04 16:08:33,764 Epoch [49/100], Loss: 0.0044
+2023-05-04 16:08:44,647 Test Without Attack, Accuracy: 99.54%
+2023-05-04 16:08:46,463 Test Without Attack, Accuracy: 98.56%
+2023-05-04 16:08:49,484 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 94.17%
+2023-05-04 16:08:52,501 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 90.69%
+2023-05-04 16:08:55,444 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.98%
+2023-05-04 16:08:58,422 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.86%
+2023-05-04 16:09:15,079 Epoch [50/100], Loss: 0.0062
+2023-05-04 16:09:26,328 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:09:28,152 Test Without Attack, Accuracy: 98.92%
+2023-05-04 16:09:31,242 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.32%
+2023-05-04 16:09:34,205 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.11%
+2023-05-04 16:09:37,088 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.91%
+2023-05-04 16:09:40,175 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.83%
+2023-05-04 16:09:58,861 Epoch [51/100], Loss: 0.0051
+2023-05-04 16:10:10,342 Test Without Attack, Accuracy: 99.78%
+2023-05-04 16:10:12,451 Test Without Attack, Accuracy: 99.06%
+2023-05-04 16:10:15,573 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.59%
+2023-05-04 16:10:18,802 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.07%
+2023-05-04 16:10:21,848 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.10%
+2023-05-04 16:10:24,802 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.07%
+2023-05-04 16:10:41,466 Epoch [52/100], Loss: 0.0042
+2023-05-04 16:10:52,944 Test Without Attack, Accuracy: 99.90%
+2023-05-04 16:10:54,766 Test Without Attack, Accuracy: 98.95%
+2023-05-04 16:10:57,778 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.45%
+2023-05-04 16:11:00,843 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.07%
+2023-05-04 16:11:03,931 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.00%
+2023-05-04 16:11:07,055 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.91%
+2023-05-04 16:11:23,722 Epoch [53/100], Loss: 0.0061
+2023-05-04 16:11:34,909 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:11:36,755 Test Without Attack, Accuracy: 99.02%
+2023-05-04 16:11:39,764 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.69%
+2023-05-04 16:11:42,764 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.54%
+2023-05-04 16:11:45,790 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.17%
+2023-05-04 16:11:48,685 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.10%
+2023-05-04 16:12:05,624 Epoch [54/100], Loss: 0.0054
+2023-05-04 16:12:16,654 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:12:18,490 Test Without Attack, Accuracy: 98.85%
+2023-05-04 16:12:21,500 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.47%
+2023-05-04 16:12:24,518 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.02%
+2023-05-04 16:12:27,383 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.35%
+2023-05-04 16:12:30,253 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.29%
+2023-05-04 16:12:46,776 Epoch [55/100], Loss: 0.0070
+2023-05-04 16:12:57,687 Test Without Attack, Accuracy: 99.95%
+2023-05-04 16:12:59,517 Test Without Attack, Accuracy: 99.07%
+2023-05-04 16:13:02,522 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.92%
+2023-05-04 16:13:05,472 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.91%
+2023-05-04 16:13:08,361 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.22%
+2023-05-04 16:13:11,242 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.13%
+2023-05-04 16:13:28,157 Epoch [56/100], Loss: 0.0051
+2023-05-04 16:13:39,493 Test Without Attack, Accuracy: 99.94%
+2023-05-04 16:13:41,385 Test Without Attack, Accuracy: 98.99%
+2023-05-04 16:13:44,383 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.56%
+2023-05-04 16:13:47,361 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.43%
+2023-05-04 16:13:50,229 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.03%
+2023-05-04 16:13:53,134 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.04%
+2023-05-04 16:14:09,629 Epoch [57/100], Loss: 0.0049
+2023-05-04 16:14:20,746 Test Without Attack, Accuracy: 99.72%
+2023-05-04 16:14:22,537 Test Without Attack, Accuracy: 98.80%
+2023-05-04 16:14:25,504 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.09%
+2023-05-04 16:14:28,439 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.31%
+2023-05-04 16:14:31,338 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.70%
+2023-05-04 16:14:34,397 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.64%
+2023-05-04 16:14:51,391 Epoch [58/100], Loss: 0.0054
+2023-05-04 16:15:02,578 Test Without Attack, Accuracy: 99.78%
+2023-05-04 16:15:04,436 Test Without Attack, Accuracy: 98.85%
+2023-05-04 16:15:07,473 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.17%
+2023-05-04 16:15:10,446 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.00%
+2023-05-04 16:15:13,427 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.90%
+2023-05-04 16:15:16,349 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.82%
+2023-05-04 16:15:33,213 Epoch [59/100], Loss: 0.0063
+2023-05-04 16:15:44,211 Test Without Attack, Accuracy: 99.84%
+2023-05-04 16:15:46,069 Test Without Attack, Accuracy: 98.90%
+2023-05-04 16:15:49,176 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.92%
+2023-05-04 16:15:52,312 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.34%
+2023-05-04 16:15:55,234 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.68%
+2023-05-04 16:15:58,168 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.59%
+2023-05-04 16:16:15,247 Epoch [60/100], Loss: 0.0037
+2023-05-04 16:16:26,197 Test Without Attack, Accuracy: 99.79%
+2023-05-04 16:16:28,021 Test Without Attack, Accuracy: 98.89%
+2023-05-04 16:16:31,029 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.84%
+2023-05-04 16:16:34,108 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.17%
+2023-05-04 16:16:37,128 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.69%
+2023-05-04 16:16:40,131 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.63%
+2023-05-04 16:16:57,206 Epoch [61/100], Loss: 0.0064
+2023-05-04 16:17:08,308 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:17:10,158 Test Without Attack, Accuracy: 98.94%
+2023-05-04 16:17:13,245 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.54%
+2023-05-04 16:17:16,242 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.14%
+2023-05-04 16:17:19,181 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.06%
+2023-05-04 16:17:22,111 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.01%
+2023-05-04 16:17:38,983 Epoch [62/100], Loss: 0.0040
+2023-05-04 16:17:50,166 Test Without Attack, Accuracy: 99.90%
+2023-05-04 16:17:52,070 Test Without Attack, Accuracy: 98.96%
+2023-05-04 16:17:55,160 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.23%
+2023-05-04 16:17:58,198 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.17%
+2023-05-04 16:18:01,190 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.96%
+2023-05-04 16:18:04,165 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.92%
+2023-05-04 16:18:20,951 Epoch [63/100], Loss: 0.0037
+2023-05-04 16:18:32,174 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:18:34,008 Test Without Attack, Accuracy: 98.93%
+2023-05-04 16:18:37,046 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.16%
+2023-05-04 16:18:40,107 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.20%
+2023-05-04 16:18:43,053 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.89%
+2023-05-04 16:18:46,000 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.77%
+2023-05-04 16:19:02,688 Epoch [64/100], Loss: 0.0054
+2023-05-04 16:19:14,125 Test Without Attack, Accuracy: 99.90%
+2023-05-04 16:19:15,957 Test Without Attack, Accuracy: 98.84%
+2023-05-04 16:19:19,026 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.12%
+2023-05-04 16:19:22,101 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.02%
+2023-05-04 16:19:25,050 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.73%
+2023-05-04 16:19:28,079 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.68%
+2023-05-04 16:19:45,020 Epoch [65/100], Loss: 0.0046
+2023-05-04 16:19:56,357 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:19:58,169 Test Without Attack, Accuracy: 99.04%
+2023-05-04 16:20:01,173 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.35%
+2023-05-04 16:20:04,187 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.91%
+2023-05-04 16:20:07,184 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.87%
+2023-05-04 16:20:10,153 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.83%
+2023-05-04 16:20:27,365 Epoch [66/100], Loss: 0.0055
+2023-05-04 16:20:38,630 Test Without Attack, Accuracy: 99.84%
+2023-05-04 16:20:40,725 Test Without Attack, Accuracy: 98.83%
+2023-05-04 16:20:43,829 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.52%
+2023-05-04 16:20:46,842 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.88%
+2023-05-04 16:20:49,806 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.07%
+2023-05-04 16:20:52,739 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.02%
+2023-05-04 16:21:09,823 Epoch [67/100], Loss: 0.0055
+2023-05-04 16:21:20,859 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:21:22,690 Test Without Attack, Accuracy: 98.84%
+2023-05-04 16:21:25,696 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.12%
+2023-05-04 16:21:28,690 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.57%
+2023-05-04 16:21:31,593 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.77%
+2023-05-04 16:21:34,497 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.70%
+2023-05-04 16:21:51,138 Epoch [68/100], Loss: 0.0048
+2023-05-04 16:22:02,418 Test Without Attack, Accuracy: 99.93%
+2023-05-04 16:22:04,258 Test Without Attack, Accuracy: 98.98%
+2023-05-04 16:22:07,304 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.73%
+2023-05-04 16:22:10,311 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.87%
+2023-05-04 16:22:13,198 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.99%
+2023-05-04 16:22:16,110 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.95%
+2023-05-04 16:22:33,147 Epoch [69/100], Loss: 0.0045
+2023-05-04 16:22:44,350 Test Without Attack, Accuracy: 99.86%
+2023-05-04 16:22:46,290 Test Without Attack, Accuracy: 98.98%
+2023-05-04 16:22:49,360 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.41%
+2023-05-04 16:22:52,481 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.43%
+2023-05-04 16:22:55,537 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.41%
+2023-05-04 16:22:58,539 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.38%
+2023-05-04 16:23:15,664 Epoch [70/100], Loss: 0.0051
+2023-05-04 16:23:27,251 Test Without Attack, Accuracy: 99.77%
+2023-05-04 16:23:29,192 Test Without Attack, Accuracy: 98.87%
+2023-05-04 16:23:32,456 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.32%
+2023-05-04 16:23:35,550 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.39%
+2023-05-04 16:23:38,566 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.35%
+2023-05-04 16:23:41,620 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.23%
+2023-05-04 16:23:58,966 Epoch [71/100], Loss: 0.0046
+2023-05-04 16:24:10,594 Test Without Attack, Accuracy: 99.95%
+2023-05-04 16:24:12,537 Test Without Attack, Accuracy: 99.03%
+2023-05-04 16:24:15,658 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.84%
+2023-05-04 16:24:18,892 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.77%
+2023-05-04 16:24:22,112 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.29%
+2023-05-04 16:24:25,267 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.22%
+2023-05-04 16:24:44,346 Epoch [72/100], Loss: 0.0049
+2023-05-04 16:24:55,433 Test Without Attack, Accuracy: 99.94%
+2023-05-04 16:24:57,250 Test Without Attack, Accuracy: 99.04%
+2023-05-04 16:25:00,286 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.54%
+2023-05-04 16:25:03,344 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.51%
+2023-05-04 16:25:06,266 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.00%
+2023-05-04 16:25:09,255 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.96%
+2023-05-04 16:25:26,060 Epoch [73/100], Loss: 0.0067
+2023-05-04 16:25:37,129 Test Without Attack, Accuracy: 99.93%
+2023-05-04 16:25:38,985 Test Without Attack, Accuracy: 98.96%
+2023-05-04 16:25:42,076 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.45%
+2023-05-04 16:25:45,149 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.08%
+2023-05-04 16:25:48,152 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.94%
+2023-05-04 16:25:51,126 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.89%
+2023-05-04 16:26:07,615 Epoch [74/100], Loss: 0.0046
+2023-05-04 16:26:18,659 Test Without Attack, Accuracy: 99.91%
+2023-05-04 16:26:20,478 Test Without Attack, Accuracy: 98.93%
+2023-05-04 16:26:23,459 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.16%
+2023-05-04 16:26:26,439 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.72%
+2023-05-04 16:26:29,355 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.70%
+2023-05-04 16:26:32,254 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.68%
+2023-05-04 16:26:49,119 Epoch [75/100], Loss: 0.0032
+2023-05-04 16:27:00,370 Test Without Attack, Accuracy: 99.80%
+2023-05-04 16:27:02,258 Test Without Attack, Accuracy: 98.71%
+2023-05-04 16:27:05,179 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.55%
+2023-05-04 16:27:08,167 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.67%
+2023-05-04 16:27:11,073 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.09%
+2023-05-04 16:27:14,019 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.01%
+2023-05-04 16:27:31,490 Epoch [76/100], Loss: 0.0043
+2023-05-04 16:27:43,319 Test Without Attack, Accuracy: 99.91%
+2023-05-04 16:27:45,285 Test Without Attack, Accuracy: 98.94%
+2023-05-04 16:27:48,774 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.53%
+2023-05-04 16:27:51,979 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.39%
+2023-05-04 16:27:54,997 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.95%
+2023-05-04 16:27:57,974 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.93%
+2023-05-04 16:28:15,205 Epoch [77/100], Loss: 0.0062
+2023-05-04 16:28:26,657 Test Without Attack, Accuracy: 99.83%
+2023-05-04 16:28:28,584 Test Without Attack, Accuracy: 98.73%
+2023-05-04 16:28:31,648 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.15%
+2023-05-04 16:28:34,821 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.88%
+2023-05-04 16:28:38,043 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.72%
+2023-05-04 16:28:41,218 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.62%
+2023-05-04 16:28:59,452 Epoch [78/100], Loss: 0.0056
+2023-05-04 16:29:11,370 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:29:13,296 Test Without Attack, Accuracy: 99.03%
+2023-05-04 16:29:16,328 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.68%
+2023-05-04 16:29:19,321 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.54%
+2023-05-04 16:29:22,258 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.19%
+2023-05-04 16:29:25,214 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.12%
+2023-05-04 16:29:42,290 Epoch [79/100], Loss: 0.0041
+2023-05-04 16:29:53,791 Test Without Attack, Accuracy: 99.82%
+2023-05-04 16:29:55,609 Test Without Attack, Accuracy: 98.82%
+2023-05-04 16:29:58,629 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.41%
+2023-05-04 16:30:01,651 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.26%
+2023-05-04 16:30:04,680 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.91%
+2023-05-04 16:30:07,701 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.84%
+2023-05-04 16:30:24,999 Epoch [80/100], Loss: 0.0084
+2023-05-04 16:30:36,191 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:30:38,031 Test Without Attack, Accuracy: 98.88%
+2023-05-04 16:30:41,195 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.60%
+2023-05-04 16:30:44,512 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.39%
+2023-05-04 16:30:47,823 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.02%
+2023-05-04 16:30:51,013 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.98%
+2023-05-04 16:31:08,370 Epoch [81/100], Loss: 0.0062
+2023-05-04 16:31:20,131 Test Without Attack, Accuracy: 99.95%
+2023-05-04 16:31:22,096 Test Without Attack, Accuracy: 98.88%
+2023-05-04 16:31:25,212 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.39%
+2023-05-04 16:31:28,333 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.13%
+2023-05-04 16:31:31,328 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.78%
+2023-05-04 16:31:34,391 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.69%
+2023-05-04 16:31:52,254 Epoch [82/100], Loss: 0.0036
+2023-05-04 16:32:04,070 Test Without Attack, Accuracy: 99.91%
+2023-05-04 16:32:06,167 Test Without Attack, Accuracy: 98.98%
+2023-05-04 16:32:09,464 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.68%
+2023-05-04 16:32:12,709 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.37%
+2023-05-04 16:32:15,770 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.59%
+2023-05-04 16:32:18,846 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.56%
+2023-05-04 16:32:36,410 Epoch [83/100], Loss: 0.0053
+2023-05-04 16:32:47,778 Test Without Attack, Accuracy: 99.94%
+2023-05-04 16:32:49,658 Test Without Attack, Accuracy: 98.95%
+2023-05-04 16:32:52,753 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.33%
+2023-05-04 16:32:55,756 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.36%
+2023-05-04 16:32:58,780 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.99%
+2023-05-04 16:33:01,849 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.89%
+2023-05-04 16:33:19,463 Epoch [84/100], Loss: 0.0068
+2023-05-04 16:33:30,757 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:33:32,669 Test Without Attack, Accuracy: 98.93%
+2023-05-04 16:33:35,682 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.87%
+2023-05-04 16:33:38,777 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.36%
+2023-05-04 16:33:41,746 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.15%
+2023-05-04 16:33:44,746 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.13%
+2023-05-04 16:34:01,791 Epoch [85/100], Loss: 0.0048
+2023-05-04 16:34:13,505 Test Without Attack, Accuracy: 99.88%
+2023-05-04 16:34:15,450 Test Without Attack, Accuracy: 98.80%
+2023-05-04 16:34:18,717 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.19%
+2023-05-04 16:34:21,971 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.47%
+2023-05-04 16:34:25,323 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.87%
+2023-05-04 16:34:28,415 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.80%
+2023-05-04 16:34:46,140 Epoch [86/100], Loss: 0.0053
+2023-05-04 16:34:57,949 Test Without Attack, Accuracy: 99.98%
+2023-05-04 16:34:59,959 Test Without Attack, Accuracy: 99.00%
+2023-05-04 16:35:03,258 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.90%
+2023-05-04 16:35:06,481 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.05%
+2023-05-04 16:35:09,645 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.19%
+2023-05-04 16:35:12,772 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.12%
+2023-05-04 16:35:30,340 Epoch [87/100], Loss: 0.0060
+2023-05-04 16:35:41,655 Test Without Attack, Accuracy: 99.85%
+2023-05-04 16:35:43,523 Test Without Attack, Accuracy: 98.89%
+2023-05-04 16:35:46,547 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.50%
+2023-05-04 16:35:49,544 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.45%
+2023-05-04 16:35:52,541 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.99%
+2023-05-04 16:35:55,566 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.89%
+2023-05-04 16:36:13,286 Epoch [88/100], Loss: 0.0053
+2023-05-04 16:36:24,679 Test Without Attack, Accuracy: 99.97%
+2023-05-04 16:36:26,650 Test Without Attack, Accuracy: 99.09%
+2023-05-04 16:36:29,844 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.63%
+2023-05-04 16:36:33,108 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.73%
+2023-05-04 16:36:36,164 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.98%
+2023-05-04 16:36:39,189 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.93%
+2023-05-04 16:36:56,521 Epoch [89/100], Loss: 0.0042
+2023-05-04 16:37:08,301 Test Without Attack, Accuracy: 99.83%
+2023-05-04 16:37:10,287 Test Without Attack, Accuracy: 98.92%
+2023-05-04 16:37:13,651 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.80%
+2023-05-04 16:37:17,004 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.45%
+2023-05-04 16:37:20,154 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.52%
+2023-05-04 16:37:23,301 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.42%
+2023-05-04 16:37:41,280 Epoch [90/100], Loss: 0.0052
+2023-05-04 16:37:53,542 Test Without Attack, Accuracy: 99.94%
+2023-05-04 16:37:55,837 Test Without Attack, Accuracy: 98.99%
+2023-05-04 16:37:59,503 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.26%
+2023-05-04 16:38:02,731 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.19%
+2023-05-04 16:38:06,711 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.65%
+2023-05-04 16:38:10,217 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.63%
+2023-05-04 16:38:28,933 Epoch [91/100], Loss: 0.0060
+2023-05-04 16:38:40,539 Test Without Attack, Accuracy: 99.90%
+2023-05-04 16:38:42,462 Test Without Attack, Accuracy: 98.83%
+2023-05-04 16:38:45,574 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.43%
+2023-05-04 16:38:48,740 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.48%
+2023-05-04 16:38:52,110 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.89%
+2023-05-04 16:38:55,463 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.85%
+2023-05-04 16:39:13,646 Epoch [92/100], Loss: 0.0038
+2023-05-04 16:39:25,649 Test Without Attack, Accuracy: 99.98%
+2023-05-04 16:39:27,699 Test Without Attack, Accuracy: 99.09%
+2023-05-04 16:39:31,089 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.56%
+2023-05-04 16:39:34,381 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.70%
+2023-05-04 16:39:37,697 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.96%
+2023-05-04 16:39:40,974 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.90%
+2023-05-04 16:39:59,823 Epoch [93/100], Loss: 0.0035
+2023-05-04 16:40:12,042 Test Without Attack, Accuracy: 99.92%
+2023-05-04 16:40:14,094 Test Without Attack, Accuracy: 98.93%
+2023-05-04 16:40:17,418 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.96%
+2023-05-04 16:40:20,757 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.39%
+2023-05-04 16:40:24,076 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.67%
+2023-05-04 16:40:27,389 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.61%
+2023-05-04 16:40:46,051 Epoch [94/100], Loss: 0.0082
+2023-05-04 16:40:58,269 Test Without Attack, Accuracy: 99.97%
+2023-05-04 16:41:00,370 Test Without Attack, Accuracy: 98.97%
+2023-05-04 16:41:03,749 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.40%
+2023-05-04 16:41:07,142 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.37%
+2023-05-04 16:41:10,483 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.74%
+2023-05-04 16:41:13,826 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.75%
+2023-05-04 16:41:33,062 Epoch [95/100], Loss: 0.0049
+2023-05-04 16:41:45,477 Test Without Attack, Accuracy: 99.93%
+2023-05-04 16:41:47,589 Test Without Attack, Accuracy: 98.83%
+2023-05-04 16:41:50,998 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.09%
+2023-05-04 16:41:54,422 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.92%
+2023-05-04 16:41:57,660 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.50%
+2023-05-04 16:42:00,998 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.47%
+2023-05-04 16:42:19,983 Epoch [96/100], Loss: 0.0034
+2023-05-04 16:42:32,334 Test Without Attack, Accuracy: 99.89%
+2023-05-04 16:42:34,337 Test Without Attack, Accuracy: 98.95%
+2023-05-04 16:42:37,706 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.72%
+2023-05-04 16:42:41,068 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.34%
+2023-05-04 16:42:44,366 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.49%
+2023-05-04 16:42:47,703 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.44%
+2023-05-04 16:43:06,420 Epoch [97/100], Loss: 0.0054
+2023-05-04 16:43:18,670 Test Without Attack, Accuracy: 99.98%
+2023-05-04 16:43:20,739 Test Without Attack, Accuracy: 99.08%
+2023-05-04 16:43:24,183 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.33%
+2023-05-04 16:43:27,550 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.14%
+2023-05-04 16:43:30,876 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.83%
+2023-05-04 16:43:34,139 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.75%
+2023-05-04 16:43:53,026 Epoch [98/100], Loss: 0.0038
+2023-05-04 16:44:05,661 Test Without Attack, Accuracy: 99.91%
+2023-05-04 16:44:07,741 Test Without Attack, Accuracy: 98.95%
+2023-05-04 16:44:11,193 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.32%
+2023-05-04 16:44:14,670 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.90%
+2023-05-04 16:44:18,066 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.74%
+2023-05-04 16:44:21,461 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.72%
+2023-05-04 16:44:39,773 Epoch [99/100], Loss: 0.0090
+2023-05-04 16:44:52,394 Test Without Attack, Accuracy: 99.90%
+2023-05-04 16:44:54,425 Test Without Attack, Accuracy: 98.98%
+2023-05-04 16:44:57,853 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.72%
+2023-05-04 16:45:01,451 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.63%
+2023-05-04 16:45:04,947 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.01%
+2023-05-04 16:45:08,273 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.03%
+2023-05-04 16:45:26,806 Epoch [100/100], Loss: 0.0049
+2023-05-04 16:45:38,867 Test Without Attack, Accuracy: 99.93%
+2023-05-04 16:45:40,890 Test Without Attack, Accuracy: 98.84%
+2023-05-04 16:45:44,332 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.95%
+2023-05-04 16:45:47,752 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.20%
+2023-05-04 16:45:51,036 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.46%
+2023-05-04 16:45:54,274 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.40%
+2023-05-04 16:45:54,274 Training completed. Best loss is 0.003200674736617871, in epoch 75
+LeNet:2023-05-06 11:13:23,710 Epoch [1/100], Loss: 0.2094
+LeNet:2023-05-06 11:13:39,101 Test Without Attack, Accuracy: 97.97%
+LeNet:2023-05-06 11:13:41,726 Test Without Attack, Accuracy: 98.14%
+LeNet:2023-05-06 11:16:07,919 Epoch [1/100], Loss: 0.1960
+LeNet:2023-05-06 11:16:23,576 Test Without Attack, Accuracy: 97.97%
+LeNet:2023-05-06 11:16:26,171 Test Without Attack, Accuracy: 97.79%
+LeNet:2023-05-06 11:16:29,577 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 73.82%
+LeNet:2023-05-06 11:16:32,972 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 68.84%
+LeNet:2023-05-06 11:16:36,403 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 78.34%
+LeNet:2023-05-06 11:16:39,782 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 78.27%
+LeNet:2023-05-06 11:16:59,795 Epoch [2/100], Loss: 0.0599
+LeNet:2023-05-06 11:17:16,477 Test Without Attack, Accuracy: 98.88%
+LeNet:2023-05-06 11:17:19,836 Test Without Attack, Accuracy: 98.72%
+LeNet:2023-05-06 11:17:23,601 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 91.46%
+LeNet:2023-05-06 11:17:27,222 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 87.53%
+LeNet:2023-05-06 11:17:31,024 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 94.29%
+LeNet:2023-05-06 11:17:34,473 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 94.20%
+LeNet:2023-05-06 11:17:55,400 Epoch [3/100], Loss: 0.0443
+LeNet:2023-05-06 11:18:12,959 Test Without Attack, Accuracy: 98.98%
+LeNet:2023-05-06 11:18:15,765 Test Without Attack, Accuracy: 98.81%
+LeNet:2023-05-06 11:18:19,343 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 93.86%
+LeNet:2023-05-06 11:18:22,877 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 90.39%
+LeNet:2023-05-06 11:18:26,345 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.29%
+LeNet:2023-05-06 11:18:29,798 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.25%
+LeNet:2023-05-06 11:18:49,837 Epoch [4/100], Loss: 0.0355
+LeNet:2023-05-06 11:19:05,991 Test Without Attack, Accuracy: 99.23%
+LeNet:2023-05-06 11:19:08,605 Test Without Attack, Accuracy: 98.93%
+LeNet:2023-05-06 11:19:12,029 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 92.41%
+LeNet:2023-05-06 11:19:15,467 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 88.49%
+LeNet:2023-05-06 11:19:18,920 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 95.21%
+LeNet:2023-05-06 11:19:22,425 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 95.16%
+LeNet:2023-05-06 11:19:42,523 Epoch [5/100], Loss: 0.0298
+LeNet:2023-05-06 11:19:58,204 Test Without Attack, Accuracy: 99.43%
+LeNet:2023-05-06 11:20:00,848 Test Without Attack, Accuracy: 99.00%
+LeNet:2023-05-06 11:20:04,231 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.33%
+LeNet:2023-05-06 11:20:07,623 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.15%
+LeNet:2023-05-06 11:20:11,046 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.84%
+LeNet:2023-05-06 11:20:14,752 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.81%
+LeNet:2023-05-06 11:20:35,372 Epoch [6/100], Loss: 0.0250
+LeNet:2023-05-06 11:20:51,143 Test Without Attack, Accuracy: 99.46%
+LeNet:2023-05-06 11:20:53,759 Test Without Attack, Accuracy: 98.78%
+LeNet:2023-05-06 11:20:57,352 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.19%
+LeNet:2023-05-06 11:21:00,793 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.60%
+LeNet:2023-05-06 11:21:04,227 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.74%
+LeNet:2023-05-06 11:21:07,701 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.62%
+LeNet:2023-05-06 11:21:27,507 Epoch [7/100], Loss: 0.0216
+LeNet:2023-05-06 11:21:42,984 Test Without Attack, Accuracy: 99.58%
+LeNet:2023-05-06 11:21:45,593 Test Without Attack, Accuracy: 98.85%
+LeNet:2023-05-06 11:21:48,961 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.96%
+LeNet:2023-05-06 11:21:52,334 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.24%
+LeNet:2023-05-06 11:21:55,687 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.61%
+LeNet:2023-05-06 11:21:59,016 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.60%
+LeNet:2023-05-06 11:22:18,900 Epoch [8/100], Loss: 0.0193
+LeNet:2023-05-06 11:22:35,322 Test Without Attack, Accuracy: 99.49%
+LeNet:2023-05-06 11:22:38,078 Test Without Attack, Accuracy: 98.76%
+LeNet:2023-05-06 11:22:41,620 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.50%
+LeNet:2023-05-06 11:22:45,127 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.07%
+LeNet:2023-05-06 11:22:48,623 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.61%
+LeNet:2023-05-06 11:22:52,770 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.55%
+LeNet:2023-05-06 11:23:13,118 Epoch [9/100], Loss: 0.0167
+LeNet:2023-05-06 11:23:29,404 Test Without Attack, Accuracy: 99.59%
+LeNet:2023-05-06 11:23:32,042 Test Without Attack, Accuracy: 98.84%
+LeNet:2023-05-06 11:23:35,446 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.02%
+LeNet:2023-05-06 11:23:38,950 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.78%
+LeNet:2023-05-06 11:23:42,495 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.53%
+LeNet:2023-05-06 11:23:45,957 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.51%
+LeNet:2023-05-06 11:24:06,926 Epoch [10/100], Loss: 0.0149
+LeNet:2023-05-06 11:24:24,423 Test Without Attack, Accuracy: 99.58%
+LeNet:2023-05-06 11:24:27,054 Test Without Attack, Accuracy: 98.96%
+LeNet:2023-05-06 11:24:30,468 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.36%
+LeNet:2023-05-06 11:24:33,884 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.96%
+LeNet:2023-05-06 11:24:37,289 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.87%
+LeNet:2023-05-06 11:24:40,706 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.82%
+LeNet:2023-05-06 11:25:00,509 Epoch [11/100], Loss: 0.0135
+LeNet:2023-05-06 11:25:16,096 Test Without Attack, Accuracy: 99.77%
+LeNet:2023-05-06 11:25:18,680 Test Without Attack, Accuracy: 99.00%
+LeNet:2023-05-06 11:25:22,084 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.11%
+LeNet:2023-05-06 11:25:25,480 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.52%
+LeNet:2023-05-06 11:25:28,891 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.24%
+LeNet:2023-05-06 11:25:32,279 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.19%
+LeNet:2023-05-06 11:25:52,260 Epoch [12/100], Loss: 0.0113
+LeNet:2023-05-06 11:26:07,903 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 11:26:10,494 Test Without Attack, Accuracy: 99.10%
+LeNet:2023-05-06 11:26:13,873 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.63%
+LeNet:2023-05-06 11:26:17,219 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.39%
+LeNet:2023-05-06 11:26:20,584 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.17%
+LeNet:2023-05-06 11:26:23,965 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.10%
+LeNet:2023-05-06 11:26:43,542 Epoch [13/100], Loss: 0.0113
+LeNet:2023-05-06 11:26:59,024 Test Without Attack, Accuracy: 99.75%
+LeNet:2023-05-06 11:27:01,623 Test Without Attack, Accuracy: 99.04%
+LeNet:2023-05-06 11:27:04,981 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.45%
+LeNet:2023-05-06 11:27:08,362 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.39%
+LeNet:2023-05-06 11:27:11,767 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.07%
+LeNet:2023-05-06 11:27:15,152 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.98%
+LeNet:2023-05-06 11:27:35,638 Epoch [14/100], Loss: 0.0123
+LeNet:2023-05-06 11:27:51,155 Test Without Attack, Accuracy: 99.77%
+LeNet:2023-05-06 11:27:53,757 Test Without Attack, Accuracy: 99.07%
+LeNet:2023-05-06 11:27:57,148 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.43%
+LeNet:2023-05-06 11:28:00,519 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.91%
+LeNet:2023-05-06 11:28:03,881 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.96%
+LeNet:2023-05-06 11:28:07,300 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.91%
+LeNet:2023-05-06 11:28:26,990 Epoch [15/100], Loss: 0.0095
+LeNet:2023-05-06 11:28:42,343 Test Without Attack, Accuracy: 99.76%
+LeNet:2023-05-06 11:28:44,956 Test Without Attack, Accuracy: 99.00%
+LeNet:2023-05-06 11:28:48,328 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.53%
+LeNet:2023-05-06 11:28:51,724 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.45%
+LeNet:2023-05-06 11:28:55,124 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.42%
+LeNet:2023-05-06 11:28:58,527 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.37%
+LeNet:2023-05-06 11:29:18,574 Epoch [16/100], Loss: 0.0096
+LeNet:2023-05-06 11:29:34,263 Test Without Attack, Accuracy: 99.77%
+LeNet:2023-05-06 11:29:36,848 Test Without Attack, Accuracy: 98.89%
+LeNet:2023-05-06 11:29:40,263 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.73%
+LeNet:2023-05-06 11:29:43,650 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.37%
+LeNet:2023-05-06 11:29:47,066 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.34%
+LeNet:2023-05-06 11:29:50,484 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.25%
+LeNet:2023-05-06 11:30:10,394 Epoch [17/100], Loss: 0.0101
+LeNet:2023-05-06 11:30:26,472 Test Without Attack, Accuracy: 99.81%
+LeNet:2023-05-06 11:30:29,091 Test Without Attack, Accuracy: 99.12%
+LeNet:2023-05-06 11:30:32,463 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.29%
+LeNet:2023-05-06 11:30:35,860 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.08%
+LeNet:2023-05-06 11:30:39,266 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.95%
+LeNet:2023-05-06 11:30:42,654 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.87%
+LeNet:2023-05-06 11:31:02,518 Epoch [18/100], Loss: 0.0087
+LeNet:2023-05-06 11:31:18,353 Test Without Attack, Accuracy: 99.71%
+LeNet:2023-05-06 11:31:21,092 Test Without Attack, Accuracy: 98.88%
+LeNet:2023-05-06 11:31:24,585 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.82%
+LeNet:2023-05-06 11:31:28,136 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.31%
+LeNet:2023-05-06 11:31:31,684 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.46%
+LeNet:2023-05-06 11:31:35,158 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.41%
+LeNet:2023-05-06 11:31:54,937 Epoch [19/100], Loss: 0.0082
+LeNet:2023-05-06 11:32:10,757 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 11:32:13,314 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 11:32:16,672 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.67%
+LeNet:2023-05-06 11:32:20,075 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.42%
+LeNet:2023-05-06 11:32:23,515 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.93%
+LeNet:2023-05-06 11:32:27,104 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.90%
+LeNet:2023-05-06 11:32:47,073 Epoch [20/100], Loss: 0.0088
+LeNet:2023-05-06 11:33:03,125 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 11:33:05,863 Test Without Attack, Accuracy: 99.03%
+LeNet:2023-05-06 11:33:09,230 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.91%
+LeNet:2023-05-06 11:33:12,606 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.81%
+LeNet:2023-05-06 11:33:16,057 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.18%
+LeNet:2023-05-06 11:33:19,466 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.11%
+LeNet:2023-05-06 11:33:39,310 Epoch [21/100], Loss: 0.0083
+LeNet:2023-05-06 11:33:55,028 Test Without Attack, Accuracy: 99.85%
+LeNet:2023-05-06 11:33:57,621 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 11:34:01,038 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.12%
+LeNet:2023-05-06 11:34:04,377 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.62%
+LeNet:2023-05-06 11:34:07,750 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.66%
+LeNet:2023-05-06 11:34:11,120 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.60%
+LeNet:2023-05-06 11:34:30,803 Epoch [22/100], Loss: 0.0091
+LeNet:2023-05-06 11:34:46,499 Test Without Attack, Accuracy: 99.83%
+LeNet:2023-05-06 11:34:49,096 Test Without Attack, Accuracy: 98.80%
+LeNet:2023-05-06 11:34:52,490 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.55%
+LeNet:2023-05-06 11:34:55,938 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.46%
+LeNet:2023-05-06 11:34:59,362 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.56%
+LeNet:2023-05-06 11:35:02,898 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.51%
+LeNet:2023-05-06 11:35:22,766 Epoch [23/100], Loss: 0.0063
+LeNet:2023-05-06 11:35:38,247 Test Without Attack, Accuracy: 99.72%
+LeNet:2023-05-06 11:35:40,822 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 11:35:44,197 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.60%
+LeNet:2023-05-06 11:35:47,572 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.88%
+LeNet:2023-05-06 11:35:51,049 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.39%
+LeNet:2023-05-06 11:35:54,476 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.36%
+LeNet:2023-05-06 11:36:14,743 Epoch [24/100], Loss: 0.0079
+LeNet:2023-05-06 11:36:30,493 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 11:36:33,187 Test Without Attack, Accuracy: 98.91%
+LeNet:2023-05-06 11:36:36,683 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.84%
+LeNet:2023-05-06 11:36:40,122 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.24%
+LeNet:2023-05-06 11:36:43,533 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.69%
+LeNet:2023-05-06 11:36:46,966 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.65%
+LeNet:2023-05-06 11:37:06,674 Epoch [25/100], Loss: 0.0080
+LeNet:2023-05-06 11:37:22,145 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 11:37:24,813 Test Without Attack, Accuracy: 99.01%
+LeNet:2023-05-06 11:37:28,322 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.76%
+LeNet:2023-05-06 11:37:31,832 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.59%
+LeNet:2023-05-06 11:37:35,296 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.06%
+LeNet:2023-05-06 11:37:38,734 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.05%
+LeNet:2023-05-06 11:37:58,838 Epoch [26/100], Loss: 0.0062
+LeNet:2023-05-06 11:38:14,979 Test Without Attack, Accuracy: 99.63%
+LeNet:2023-05-06 11:38:17,599 Test Without Attack, Accuracy: 98.62%
+LeNet:2023-05-06 11:38:20,995 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.65%
+LeNet:2023-05-06 11:38:24,464 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.00%
+LeNet:2023-05-06 11:38:27,939 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.56%
+LeNet:2023-05-06 11:38:31,395 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.47%
+LeNet:2023-05-06 11:38:51,453 Epoch [27/100], Loss: 0.0080
+LeNet:2023-05-06 11:39:07,419 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 11:39:10,137 Test Without Attack, Accuracy: 98.95%
+LeNet:2023-05-06 11:39:13,617 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.91%
+LeNet:2023-05-06 11:39:17,131 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.53%
+LeNet:2023-05-06 11:39:20,684 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.59%
+LeNet:2023-05-06 11:39:24,180 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.54%
+LeNet:2023-05-06 11:39:44,252 Epoch [28/100], Loss: 0.0065
+LeNet:2023-05-06 11:40:00,011 Test Without Attack, Accuracy: 99.81%
+LeNet:2023-05-06 11:40:02,618 Test Without Attack, Accuracy: 98.85%
+LeNet:2023-05-06 11:40:06,011 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.03%
+LeNet:2023-05-06 11:40:09,387 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.90%
+LeNet:2023-05-06 11:40:12,799 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.59%
+LeNet:2023-05-06 11:40:16,223 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.51%
+LeNet:2023-05-06 11:40:37,822 Epoch [29/100], Loss: 0.0054
+LeNet:2023-05-06 11:40:53,626 Test Without Attack, Accuracy: 99.87%
+LeNet:2023-05-06 11:40:56,286 Test Without Attack, Accuracy: 99.05%
+LeNet:2023-05-06 11:40:59,696 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.26%
+LeNet:2023-05-06 11:41:03,150 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.91%
+LeNet:2023-05-06 11:41:06,546 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.89%
+LeNet:2023-05-06 11:41:09,942 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.83%
+LeNet:2023-05-06 11:41:29,599 Epoch [30/100], Loss: 0.0073
+LeNet:2023-05-06 11:41:45,169 Test Without Attack, Accuracy: 99.64%
+LeNet:2023-05-06 11:41:47,781 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 11:48:53,295 Epoch [1/50], Loss: 0.1167
+LeNet:2023-05-06 11:49:49,641 Test Without Attack, Accuracy: 95.99%
+LeNet:2023-05-06 11:49:58,209 Test Without Attack, Accuracy: 95.77%
+LeNet:2023-05-06 11:50:19,980 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 71.06%
+LeNet:2023-05-06 11:50:43,279 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 62.90%
+LeNet:2023-05-06 11:51:06,667 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 78.17%
+LeNet:2023-05-06 11:51:30,850 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 78.12%
+LeNet:2023-05-06 11:53:35,832 Epoch [2/50], Loss: 0.0615
+LeNet:2023-05-06 11:54:27,873 Test Without Attack, Accuracy: 99.13%
+LeNet:2023-05-06 11:54:36,487 Test Without Attack, Accuracy: 99.04%
+LeNet:2023-05-06 11:55:00,921 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 94.81%
+LeNet:2023-05-06 11:55:25,111 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.42%
+LeNet:2023-05-06 11:55:49,522 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 96.59%
+LeNet:2023-05-06 11:56:13,875 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 96.60%
+LeNet:2023-05-06 11:58:22,762 Epoch [3/50], Loss: 0.0403
+LeNet:2023-05-06 11:59:23,450 Test Without Attack, Accuracy: 99.08%
+LeNet:2023-05-06 11:59:33,589 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 11:59:55,624 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 89.42%
+LeNet:2023-05-06 12:00:20,254 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 84.94%
+LeNet:2023-05-06 12:00:47,765 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 92.46%
+LeNet:2023-05-06 12:01:13,778 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 92.41%
+LeNet:2023-05-06 12:03:28,018 Epoch [4/50], Loss: 0.0303
+LeNet:2023-05-06 12:04:26,074 Test Without Attack, Accuracy: 99.33%
+LeNet:2023-05-06 12:04:35,799 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 12:04:58,333 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.19%
+LeNet:2023-05-06 12:05:20,886 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.81%
+LeNet:2023-05-06 12:05:46,817 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.89%
+LeNet:2023-05-06 12:06:14,341 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.89%
+LeNet:2023-05-06 12:08:27,355 Epoch [5/50], Loss: 0.0256
+LeNet:2023-05-06 12:09:25,410 Test Without Attack, Accuracy: 99.40%
+LeNet:2023-05-06 12:09:35,095 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 12:09:57,791 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.64%
+LeNet:2023-05-06 12:10:20,275 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 92.87%
+LeNet:2023-05-06 12:10:46,633 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.63%
+LeNet:2023-05-06 12:11:13,795 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.61%
+LeNet:2023-05-06 12:13:24,301 Epoch [6/50], Loss: 0.0194
+LeNet:2023-05-06 12:14:27,374 Test Without Attack, Accuracy: 99.63%
+LeNet:2023-05-06 12:14:39,028 Test Without Attack, Accuracy: 99.19%
+LeNet:2023-05-06 12:15:04,501 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.37%
+LeNet:2023-05-06 12:15:28,054 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.91%
+LeNet:2023-05-06 12:15:50,451 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.40%
+LeNet:2023-05-06 12:16:14,607 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.38%
+LeNet:2023-05-06 12:18:27,070 Epoch [7/50], Loss: 0.0152
+LeNet:2023-05-06 12:19:27,905 Test Without Attack, Accuracy: 99.67%
+LeNet:2023-05-06 12:19:38,069 Test Without Attack, Accuracy: 99.22%
+LeNet:2023-05-06 12:20:02,460 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.76%
+LeNet:2023-05-06 12:20:27,891 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.34%
+LeNet:2023-05-06 12:20:53,293 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.68%
+LeNet:2023-05-06 12:21:18,872 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.65%
+LeNet:2023-05-06 12:23:33,707 Epoch [8/50], Loss: 0.0134
+LeNet:2023-05-06 12:24:33,522 Test Without Attack, Accuracy: 99.77%
+LeNet:2023-05-06 12:24:46,915 Test Without Attack, Accuracy: 99.34%
+LeNet:2023-05-06 12:25:19,210 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.96%
+LeNet:2023-05-06 12:25:48,053 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.70%
+LeNet:2023-05-06 12:26:15,894 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.76%
+LeNet:2023-05-06 12:26:39,581 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.75%
+LeNet:2023-05-06 12:28:57,224 Epoch [9/50], Loss: 0.0110
+LeNet:2023-05-06 12:29:57,421 Test Without Attack, Accuracy: 99.55%
+LeNet:2023-05-06 12:30:11,489 Test Without Attack, Accuracy: 99.13%
+LeNet:2023-05-06 12:30:37,254 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.73%
+LeNet:2023-05-06 12:31:09,268 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.17%
+LeNet:2023-05-06 12:31:43,803 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.72%
+LeNet:2023-05-06 12:32:11,632 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 12:34:43,024 Epoch [10/50], Loss: 0.0102
+LeNet:2023-05-06 12:35:42,692 Test Without Attack, Accuracy: 99.84%
+LeNet:2023-05-06 12:35:52,321 Test Without Attack, Accuracy: 99.24%
+LeNet:2023-05-06 12:36:14,861 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.08%
+LeNet:2023-05-06 12:36:39,822 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.80%
+LeNet:2023-05-06 12:37:08,688 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.87%
+LeNet:2023-05-06 12:37:36,600 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.83%
+LeNet:2023-05-06 12:39:58,581 Epoch [11/50], Loss: 0.0105
+LeNet:2023-05-06 12:40:56,146 Test Without Attack, Accuracy: 99.76%
+LeNet:2023-05-06 12:41:05,834 Test Without Attack, Accuracy: 99.24%
+LeNet:2023-05-06 12:41:28,311 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.32%
+LeNet:2023-05-06 12:41:55,513 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.43%
+LeNet:2023-05-06 12:42:25,984 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 12:42:54,009 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 12:45:11,152 Epoch [12/50], Loss: 0.0090
+LeNet:2023-05-06 12:46:07,419 Test Without Attack, Accuracy: 99.72%
+LeNet:2023-05-06 12:46:17,034 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 12:46:39,634 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.29%
+LeNet:2023-05-06 12:47:05,482 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.61%
+LeNet:2023-05-06 12:47:34,492 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.27%
+LeNet:2023-05-06 12:48:01,513 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.28%
+LeNet:2023-05-06 12:50:21,834 Epoch [13/50], Loss: 0.0078
+LeNet:2023-05-06 12:51:20,019 Test Without Attack, Accuracy: 99.68%
+LeNet:2023-05-06 12:51:30,112 Test Without Attack, Accuracy: 99.25%
+LeNet:2023-05-06 12:51:54,689 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.86%
+LeNet:2023-05-06 12:52:21,112 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.16%
+LeNet:2023-05-06 12:52:53,354 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.85%
+LeNet:2023-05-06 12:53:18,912 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.84%
+LeNet:2023-05-06 12:55:39,814 Epoch [14/50], Loss: 0.0085
+LeNet:2023-05-06 12:56:43,874 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 12:56:52,913 Test Without Attack, Accuracy: 99.31%
+LeNet:2023-05-06 12:57:14,531 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.78%
+LeNet:2023-05-06 12:57:37,520 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.39%
+LeNet:2023-05-06 12:58:01,429 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.70%
+LeNet:2023-05-06 12:58:30,366 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.68%
+LeNet:2023-05-06 13:00:58,161 Epoch [15/50], Loss: 0.0067
+LeNet:2023-05-06 13:02:00,409 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 13:02:10,762 Test Without Attack, Accuracy: 99.37%
+LeNet:2023-05-06 13:02:33,866 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.98%
+LeNet:2023-05-06 13:02:59,010 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.92%
+LeNet:2023-05-06 13:03:27,579 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.78%
+LeNet:2023-05-06 13:04:00,747 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.78%
+LeNet:2023-05-06 13:06:30,697 Epoch [16/50], Loss: 0.0072
+LeNet:2023-05-06 13:07:27,896 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 13:07:38,787 Test Without Attack, Accuracy: 99.32%
+LeNet:2023-05-06 13:08:01,725 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.65%
+LeNet:2023-05-06 13:08:31,222 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.96%
+LeNet:2023-05-06 13:09:05,543 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.61%
+LeNet:2023-05-06 13:09:34,993 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.60%
+LeNet:2023-05-06 13:12:08,728 Epoch [17/50], Loss: 0.0057
+LeNet:2023-05-06 13:13:14,575 Test Without Attack, Accuracy: 99.97%
+LeNet:2023-05-06 13:13:24,545 Test Without Attack, Accuracy: 99.39%
+LeNet:2023-05-06 13:13:48,046 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.09%
+LeNet:2023-05-06 13:14:20,509 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.87%
+LeNet:2023-05-06 13:14:47,713 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.81%
+LeNet:2023-05-06 13:15:17,053 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.79%
+LeNet:2023-05-06 13:17:58,343 Epoch [18/50], Loss: 0.0070
+LeNet:2023-05-06 13:19:03,477 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 13:19:13,537 Test Without Attack, Accuracy: 99.26%
+LeNet:2023-05-06 13:19:38,314 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.63%
+LeNet:2023-05-06 13:20:18,342 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.15%
+LeNet:2023-05-06 13:20:51,471 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.68%
+LeNet:2023-05-06 13:21:22,268 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.68%
+LeNet:2023-05-06 13:24:04,838 Epoch [19/50], Loss: 0.0056
+LeNet:2023-05-06 13:25:08,831 Test Without Attack, Accuracy: 99.84%
+LeNet:2023-05-06 13:25:17,450 Test Without Attack, Accuracy: 99.21%
+LeNet:2023-05-06 13:25:43,933 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.39%
+LeNet:2023-05-06 13:26:22,119 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.46%
+LeNet:2023-05-06 13:26:51,697 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.51%
+LeNet:2023-05-06 13:27:29,055 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.49%
+LeNet:2023-05-06 13:30:00,283 Epoch [20/50], Loss: 0.0049
+LeNet:2023-05-06 13:31:01,559 Test Without Attack, Accuracy: 99.58%
+LeNet:2023-05-06 13:31:11,998 Test Without Attack, Accuracy: 98.83%
+LeNet:2023-05-06 13:31:37,026 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.28%
+LeNet:2023-05-06 13:32:22,591 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.42%
+LeNet:2023-05-06 13:32:56,842 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.62%
+LeNet:2023-05-06 13:33:22,489 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.62%
+LeNet:2023-05-06 13:36:14,445 Epoch [21/50], Loss: 0.0062
+LeNet:2023-05-06 13:37:19,163 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 13:37:29,070 Test Without Attack, Accuracy: 99.30%
+LeNet:2023-05-06 13:37:55,774 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.85%
+LeNet:2023-05-06 13:38:34,524 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.45%
+LeNet:2023-05-06 13:39:01,511 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.59%
+LeNet:2023-05-06 13:39:28,944 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.58%
+LeNet:2023-05-06 13:42:17,357 Epoch [22/50], Loss: 0.0053
+LeNet:2023-05-06 13:43:23,035 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 13:43:33,472 Test Without Attack, Accuracy: 99.22%
+LeNet:2023-05-06 13:43:58,886 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.43%
+LeNet:2023-05-06 13:44:31,988 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.92%
+LeNet:2023-05-06 13:45:07,268 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.47%
+LeNet:2023-05-06 13:45:43,298 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.45%
+LeNet:2023-05-06 13:48:18,033 Epoch [23/50], Loss: 0.0058
+LeNet:2023-05-06 13:49:23,602 Test Without Attack, Accuracy: 99.93%
+LeNet:2023-05-06 13:49:34,027 Test Without Attack, Accuracy: 99.23%
+LeNet:2023-05-06 13:49:58,743 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.91%
+LeNet:2023-05-06 13:50:29,671 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.56%
+LeNet:2023-05-06 13:50:58,645 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.69%
+LeNet:2023-05-06 13:51:31,531 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 13:54:22,413 Epoch [24/50], Loss: 0.0041
+LeNet:2023-05-06 13:55:23,551 Test Without Attack, Accuracy: 99.92%
+LeNet:2023-05-06 13:55:34,027 Test Without Attack, Accuracy: 99.29%
+LeNet:2023-05-06 13:56:02,046 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.01%
+LeNet:2023-05-06 13:56:33,921 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.68%
+LeNet:2023-05-06 13:57:06,869 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.74%
+LeNet:2023-05-06 13:57:38,782 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 14:00:24,564 Epoch [25/50], Loss: 0.0053
+LeNet:2023-05-06 14:01:28,655 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 14:01:38,689 Test Without Attack, Accuracy: 99.36%
+LeNet:2023-05-06 14:02:01,553 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.72%
+LeNet:2023-05-06 14:02:33,670 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.09%
+LeNet:2023-05-06 14:03:03,501 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.63%
+LeNet:2023-05-06 14:03:32,259 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.62%
+LeNet:2023-05-06 14:06:09,303 Epoch [26/50], Loss: 0.0036
+LeNet:2023-05-06 14:07:13,033 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 14:07:22,401 Test Without Attack, Accuracy: 99.36%
+LeNet:2023-05-06 14:07:46,884 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.90%
+LeNet:2023-05-06 14:08:16,405 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.53%
+LeNet:2023-05-06 14:08:46,718 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.84%
+LeNet:2023-05-06 14:09:31,506 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.84%
+LeNet:2023-05-06 14:12:07,119 Epoch [27/50], Loss: 0.0051
+LeNet:2023-05-06 14:13:08,691 Test Without Attack, Accuracy: 99.97%
+LeNet:2023-05-06 14:13:18,977 Test Without Attack, Accuracy: 99.33%
+LeNet:2023-05-06 14:13:48,224 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.83%
+LeNet:2023-05-06 14:14:22,247 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.38%
+LeNet:2023-05-06 14:14:53,323 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.76%
+LeNet:2023-05-06 14:15:25,033 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.76%
+LeNet:2023-05-06 14:17:49,444 Epoch [28/50], Loss: 0.0058
+LeNet:2023-05-06 14:18:44,160 Test Without Attack, Accuracy: 99.96%
+LeNet:2023-05-06 14:18:52,659 Test Without Attack, Accuracy: 99.45%
+LeNet:2023-05-06 14:19:14,042 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.25%
+LeNet:2023-05-06 14:19:36,599 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.00%
+LeNet:2023-05-06 14:19:59,775 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.99%
+LeNet:2023-05-06 14:20:22,908 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 99.00%
+LeNet:2023-05-06 14:22:33,910 Epoch [29/50], Loss: 0.0026
+LeNet:2023-05-06 14:23:27,309 Test Without Attack, Accuracy: 99.95%
+LeNet:2023-05-06 14:23:35,865 Test Without Attack, Accuracy: 99.35%
+LeNet:2023-05-06 14:23:57,276 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.55%
+LeNet:2023-05-06 14:24:20,057 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.94%
+LeNet:2023-05-06 14:24:43,363 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.64%
+LeNet:2023-05-06 14:25:06,631 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.62%
+LeNet:2023-05-06 14:27:24,187 Epoch [30/50], Loss: 0.0054
+LeNet:2023-05-06 14:28:23,777 Test Without Attack, Accuracy: 99.95%
+LeNet:2023-05-06 14:28:33,400 Test Without Attack, Accuracy: 99.34%
+LeNet:2023-05-06 14:28:55,821 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.42%
+LeNet:2023-05-06 14:29:19,683 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.99%
+LeNet:2023-05-06 14:29:47,082 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.60%
+LeNet:2023-05-06 14:30:14,457 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.59%
+LeNet:2023-05-06 14:32:39,025 Epoch [31/50], Loss: 0.0050
+LeNet:2023-05-06 14:33:37,586 Test Without Attack, Accuracy: 99.93%
+LeNet:2023-05-06 14:33:47,200 Test Without Attack, Accuracy: 99.27%
+LeNet:2023-05-06 14:34:09,642 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.67%
+LeNet:2023-05-06 14:34:34,448 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.97%
+LeNet:2023-05-06 14:35:02,365 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.53%
+LeNet:2023-05-06 14:35:29,699 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.50%
+LeNet:2023-05-06 14:37:53,820 Epoch [32/50], Loss: 0.0055
+LeNet:2023-05-06 14:39:01,124 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 14:39:11,058 Test Without Attack, Accuracy: 99.14%
+LeNet:2023-05-06 14:39:33,587 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.07%
+LeNet:2023-05-06 14:40:06,500 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.53%
+LeNet:2023-05-06 14:40:40,925 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.35%
+LeNet:2023-05-06 14:41:09,211 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.34%
+LeNet:2023-05-06 14:43:50,880 Epoch [33/50], Loss: 0.0046
+LeNet:2023-05-06 14:44:55,049 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 14:45:05,055 Test Without Attack, Accuracy: 99.34%
+LeNet:2023-05-06 14:45:28,804 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.43%
+LeNet:2023-05-06 14:46:03,848 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.67%
+LeNet:2023-05-06 14:46:39,793 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 14:47:14,213 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 14:49:34,891 Epoch [34/50], Loss: 0.0028
+LeNet:2023-05-06 14:50:33,941 Test Without Attack, Accuracy: 99.83%
+LeNet:2023-05-06 14:50:43,375 Test Without Attack, Accuracy: 99.07%
+LeNet:2023-05-06 14:51:06,750 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.71%
+LeNet:2023-05-06 14:51:34,686 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.97%
+LeNet:2023-05-06 14:51:59,308 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.00%
+LeNet:2023-05-06 14:52:39,006 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.96%
+LeNet:2023-05-06 14:55:25,684 Epoch [35/50], Loss: 0.0032
+LeNet:2023-05-06 14:56:29,189 Test Without Attack, Accuracy: 99.98%
+LeNet:2023-05-06 14:56:39,126 Test Without Attack, Accuracy: 99.38%
+LeNet:2023-05-06 14:57:01,629 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.14%
+LeNet:2023-05-06 14:57:29,602 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.81%
+LeNet:2023-05-06 14:58:02,434 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.91%
+LeNet:2023-05-06 14:58:36,564 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.87%
+LeNet:2023-05-06 15:01:22,649 Epoch [36/50], Loss: 0.0035
+LeNet:2023-05-06 15:02:31,520 Test Without Attack, Accuracy: 99.96%
+LeNet:2023-05-06 15:02:42,889 Test Without Attack, Accuracy: 99.36%
+LeNet:2023-05-06 15:03:05,728 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.75%
+LeNet:2023-05-06 15:03:35,247 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.31%
+LeNet:2023-05-06 15:04:07,425 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.66%
+LeNet:2023-05-06 15:04:40,930 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.65%
+LeNet:2023-05-06 15:07:19,165 Epoch [37/50], Loss: 0.0027
+LeNet:2023-05-06 15:08:24,078 Test Without Attack, Accuracy: 99.93%
+LeNet:2023-05-06 15:08:33,644 Test Without Attack, Accuracy: 99.32%
+LeNet:2023-05-06 15:08:57,009 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.72%
+LeNet:2023-05-06 15:09:25,578 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.45%
+LeNet:2023-05-06 15:09:52,472 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.64%
+LeNet:2023-05-06 15:10:21,632 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.64%
+LeNet:2023-05-06 15:12:50,321 Epoch [38/50], Loss: 0.0040
+LeNet:2023-05-06 15:13:48,202 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 15:13:57,545 Test Without Attack, Accuracy: 99.36%
+LeNet:2023-05-06 15:14:20,262 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.27%
+LeNet:2023-05-06 15:14:45,230 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.58%
+LeNet:2023-05-06 15:15:10,338 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.43%
+LeNet:2023-05-06 15:15:35,751 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.42%
+LeNet:2023-05-06 15:17:58,122 Epoch [39/50], Loss: 0.0052
+LeNet:2023-05-06 15:18:58,774 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 15:19:08,310 Test Without Attack, Accuracy: 99.24%
+LeNet:2023-05-06 15:19:30,531 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.63%
+LeNet:2023-05-06 15:19:54,854 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.72%
+LeNet:2023-05-06 15:20:20,493 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.98%
+LeNet:2023-05-06 15:20:46,364 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.96%
+LeNet:2023-05-06 15:23:14,531 Epoch [40/50], Loss: 0.0026
+LeNet:2023-05-06 15:24:13,525 Test Without Attack, Accuracy: 99.84%
+LeNet:2023-05-06 15:24:22,986 Test Without Attack, Accuracy: 99.11%
+LeNet:2023-05-06 15:24:45,565 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.28%
+LeNet:2023-05-06 15:25:10,843 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.42%
+LeNet:2023-05-06 15:25:35,795 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 15:26:00,702 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 15:28:25,718 Epoch [41/50], Loss: 0.0039
+LeNet:2023-05-06 15:29:30,599 Test Without Attack, Accuracy: 99.96%
+LeNet:2023-05-06 15:29:40,010 Test Without Attack, Accuracy: 99.31%
+LeNet:2023-05-06 15:30:02,426 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.51%
+LeNet:2023-05-06 15:30:26,490 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.06%
+LeNet:2023-05-06 15:30:51,371 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 15:31:16,356 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.49%
+LeNet:2023-05-06 15:33:35,560 Epoch [42/50], Loss: 0.0041
+LeNet:2023-05-06 15:34:38,479 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 15:34:47,105 Test Without Attack, Accuracy: 99.26%
+LeNet:2023-05-06 15:35:08,545 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.72%
+LeNet:2023-05-06 15:35:31,249 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.86%
+LeNet:2023-05-06 15:35:54,518 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.01%
+LeNet:2023-05-06 15:36:17,746 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.02%
+LeNet:2023-05-06 15:38:26,296 Epoch [43/50], Loss: 0.0032
+LeNet:2023-05-06 15:39:28,650 Test Without Attack, Accuracy: 100.00%
+LeNet:2023-05-06 15:39:37,346 Test Without Attack, Accuracy: 99.42%
+LeNet:2023-05-06 15:39:58,984 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.60%
+LeNet:2023-05-06 15:40:22,113 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.26%
+LeNet:2023-05-06 15:40:46,093 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.61%
+LeNet:2023-05-06 15:41:09,913 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.59%
+LeNet:2023-05-06 15:43:20,883 Epoch [44/50], Loss: 0.0038
+LeNet:2023-05-06 15:44:23,062 Test Without Attack, Accuracy: 99.85%
+LeNet:2023-05-06 15:44:32,055 Test Without Attack, Accuracy: 99.06%
+LeNet:2023-05-06 15:44:53,786 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.99%
+LeNet:2023-05-06 15:45:17,148 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.35%
+LeNet:2023-05-06 15:45:41,409 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.11%
+LeNet:2023-05-06 15:46:05,339 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.09%
+LeNet:2023-05-06 15:48:21,209 Epoch [45/50], Loss: 0.0029
+LeNet:2023-05-06 15:49:30,664 Test Without Attack, Accuracy: 99.86%
+LeNet:2023-05-06 15:49:39,679 Test Without Attack, Accuracy: 99.33%
+LeNet:2023-05-06 15:50:01,499 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.21%
+LeNet:2023-05-06 15:50:31,699 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.84%
+LeNet:2023-05-06 15:51:03,053 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.29%
+LeNet:2023-05-06 15:51:28,976 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.26%
+LeNet:2023-05-06 15:53:43,329 Epoch [46/50], Loss: 0.0038
+LeNet:2023-05-06 15:54:51,534 Test Without Attack, Accuracy: 99.99%
+LeNet:2023-05-06 15:55:00,491 Test Without Attack, Accuracy: 99.36%
+LeNet:2023-05-06 15:55:22,028 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.24%
+LeNet:2023-05-06 15:55:44,965 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.68%
+LeNet:2023-05-06 15:56:08,746 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.34%
+LeNet:2023-05-06 15:56:32,373 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.32%
+LeNet:2023-05-06 15:58:43,132 Epoch [47/50], Loss: 0.0035
+LeNet:2023-05-06 15:59:46,719 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 15:59:55,652 Test Without Attack, Accuracy: 99.25%
+LeNet:2023-05-06 16:00:17,651 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.63%
+LeNet:2023-05-06 16:00:42,237 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.17%
+LeNet:2023-05-06 16:01:08,295 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.51%
+LeNet:2023-05-06 16:01:34,850 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.53%
+LeNet:2023-05-06 16:04:04,796 Epoch [48/50], Loss: 0.0023
+LeNet:2023-05-06 16:05:03,586 Test Without Attack, Accuracy: 99.96%
+LeNet:2023-05-06 16:05:12,696 Test Without Attack, Accuracy: 99.24%
+LeNet:2023-05-06 16:05:34,214 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.65%
+LeNet:2023-05-06 16:05:57,695 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.11%
+LeNet:2023-05-06 16:06:23,080 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.46%
+LeNet:2023-05-06 16:06:48,503 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.46%
+LeNet:2023-05-06 16:09:07,227 Epoch [49/50], Loss: 0.0052
+LeNet:2023-05-06 16:10:11,603 Test Without Attack, Accuracy: 99.99%
+LeNet:2023-05-06 16:10:20,609 Test Without Attack, Accuracy: 99.40%
+LeNet:2023-05-06 16:10:42,195 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.22%
+LeNet:2023-05-06 16:11:05,696 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.09%
+LeNet:2023-05-06 16:11:29,703 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.39%
+LeNet:2023-05-06 16:11:53,523 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.40%
+LeNet:2023-05-06 16:14:08,276 Epoch [50/50], Loss: 0.0041
+LeNet:2023-05-06 16:15:14,816 Test Without Attack, Accuracy: 99.90%
+LeNet:2023-05-06 16:15:23,697 Test Without Attack, Accuracy: 99.34%
+LeNet:2023-05-06 16:15:45,174 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.26%
+LeNet:2023-05-06 16:16:07,729 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.49%
+LeNet:2023-05-06 16:16:31,634 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.37%
+LeNet:2023-05-06 16:16:55,845 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.34%
+LeNet:2023-05-06 16:16:55,845 Training completed. Best loss is 0.0023129315362882077, in epoch 48
+LeNet:2023-05-06 16:16:56,687 Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+LeNet:2023-05-06 16:16:56,687 NumExpr defaulting to 8 threads.
+
+LeNet:2023-05-06 17:27:29,014 Epoch [1/50], Loss: 0.1190
+LeNet:2023-05-06 17:27:45,700 Test Without Attack, Accuracy: 97.88%
+LeNet:2023-05-06 17:27:48,831 Test Without Attack, Accuracy: 97.67%
+LeNet:2023-05-06 17:27:52,199 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.75%
+LeNet:2023-05-06 17:27:56,508 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.07%
+LeNet:2023-05-06 17:28:00,094 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.25%
+LeNet:2023-05-06 17:28:03,759 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.22%
+LeNet:2023-05-06 17:28:33,042 Epoch [2/50], Loss: 0.0456
+LeNet:2023-05-06 17:28:51,015 Test Without Attack, Accuracy: 98.66%
+LeNet:2023-05-06 17:28:54,203 Test Without Attack, Accuracy: 98.30%
+LeNet:2023-05-06 17:28:57,626 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.04%
+LeNet:2023-05-06 17:29:01,266 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.48%
+LeNet:2023-05-06 17:29:05,318 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.07%
+LeNet:2023-05-06 17:29:08,620 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.02%
+LeNet:2023-05-06 17:29:37,224 Epoch [3/50], Loss: 0.0346
+LeNet:2023-05-06 17:29:53,878 Test Without Attack, Accuracy: 99.09%
+LeNet:2023-05-06 17:29:56,635 Test Without Attack, Accuracy: 98.82%
+LeNet:2023-05-06 17:30:00,262 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.88%
+LeNet:2023-05-06 17:30:03,888 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.77%
+LeNet:2023-05-06 17:30:07,446 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.73%
+LeNet:2023-05-06 17:30:11,047 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.66%
+LeNet:2023-05-06 17:30:36,481 Epoch [4/50], Loss: 0.0274
+LeNet:2023-05-06 17:30:51,267 Test Without Attack, Accuracy: 99.23%
+LeNet:2023-05-06 17:30:53,824 Test Without Attack, Accuracy: 98.74%
+LeNet:2023-05-06 17:30:57,124 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.62%
+LeNet:2023-05-06 17:31:00,406 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.42%
+LeNet:2023-05-06 17:31:03,675 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.48%
+LeNet:2023-05-06 17:31:06,925 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.45%
+LeNet:2023-05-06 17:31:30,588 Epoch [5/50], Loss: 0.0250
+LeNet:2023-05-06 17:31:45,246 Test Without Attack, Accuracy: 99.31%
+LeNet:2023-05-06 17:31:47,757 Test Without Attack, Accuracy: 98.68%
+LeNet:2023-05-06 17:31:51,047 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.84%
+LeNet:2023-05-06 17:31:54,330 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.77%
+LeNet:2023-05-06 17:31:57,597 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.50%
+LeNet:2023-05-06 17:32:00,863 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 17:32:23,369 Epoch [6/50], Loss: 0.0215
+LeNet:2023-05-06 17:32:37,937 Test Without Attack, Accuracy: 99.49%
+LeNet:2023-05-06 17:32:40,423 Test Without Attack, Accuracy: 98.99%
+LeNet:2023-05-06 17:32:43,723 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.10%
+LeNet:2023-05-06 17:32:46,998 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.21%
+LeNet:2023-05-06 17:32:50,252 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.75%
+LeNet:2023-05-06 17:32:53,526 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 17:33:16,176 Epoch [7/50], Loss: 0.0183
+LeNet:2023-05-06 17:33:30,718 Test Without Attack, Accuracy: 99.46%
+LeNet:2023-05-06 17:33:33,180 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 17:33:36,499 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.90%
+LeNet:2023-05-06 17:33:39,807 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.81%
+LeNet:2023-05-06 17:33:43,101 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.75%
+LeNet:2023-05-06 17:33:46,399 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.68%
+LeNet:2023-05-06 17:34:09,208 Epoch [8/50], Loss: 0.0169
+LeNet:2023-05-06 17:34:23,900 Test Without Attack, Accuracy: 99.62%
+LeNet:2023-05-06 17:34:26,403 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 17:34:29,724 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.15%
+LeNet:2023-05-06 17:34:32,999 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.10%
+LeNet:2023-05-06 17:34:36,263 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.81%
+LeNet:2023-05-06 17:34:39,282 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.80%
+LeNet:2023-05-06 17:35:02,089 Epoch [9/50], Loss: 0.0155
+LeNet:2023-05-06 17:35:17,055 Test Without Attack, Accuracy: 99.66%
+LeNet:2023-05-06 17:35:19,574 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 17:35:22,907 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.99%
+LeNet:2023-05-06 17:35:26,251 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.88%
+LeNet:2023-05-06 17:35:29,569 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.72%
+LeNet:2023-05-06 17:35:32,855 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.65%
+LeNet:2023-05-06 17:35:55,775 Epoch [10/50], Loss: 0.0131
+LeNet:2023-05-06 17:36:10,627 Test Without Attack, Accuracy: 99.71%
+LeNet:2023-05-06 17:36:13,155 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 17:36:16,508 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.93%
+LeNet:2023-05-06 17:36:19,884 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.83%
+LeNet:2023-05-06 17:36:23,221 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.69%
+LeNet:2023-05-06 17:36:26,580 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.68%
+LeNet:2023-05-06 17:36:49,698 Epoch [11/50], Loss: 0.0135
+LeNet:2023-05-06 17:37:04,339 Test Without Attack, Accuracy: 99.75%
+LeNet:2023-05-06 17:37:06,850 Test Without Attack, Accuracy: 99.16%
+LeNet:2023-05-06 17:37:10,236 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.26%
+LeNet:2023-05-06 17:37:13,578 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.32%
+LeNet:2023-05-06 17:37:16,917 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.88%
+LeNet:2023-05-06 17:37:20,239 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.86%
+LeNet:2023-05-06 17:37:43,116 Epoch [12/50], Loss: 0.0126
+LeNet:2023-05-06 17:37:57,941 Test Without Attack, Accuracy: 99.67%
+LeNet:2023-05-06 17:38:00,461 Test Without Attack, Accuracy: 98.80%
+LeNet:2023-05-06 17:38:03,830 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.92%
+LeNet:2023-05-06 17:38:07,168 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.83%
+LeNet:2023-05-06 17:38:10,499 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.75%
+LeNet:2023-05-06 17:38:13,829 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.72%
+LeNet:2023-05-06 17:38:36,821 Epoch [13/50], Loss: 0.0114
+LeNet:2023-05-06 17:38:51,788 Test Without Attack, Accuracy: 99.74%
+LeNet:2023-05-06 17:38:54,300 Test Without Attack, Accuracy: 99.03%
+LeNet:2023-05-06 17:38:57,656 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.29%
+LeNet:2023-05-06 17:39:00,986 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.19%
+LeNet:2023-05-06 17:39:04,305 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 99.00%
+LeNet:2023-05-06 17:39:07,637 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.94%
+LeNet:2023-05-06 17:39:31,197 Epoch [14/50], Loss: 0.0100
+LeNet:2023-05-06 17:39:47,251 Test Without Attack, Accuracy: 99.63%
+LeNet:2023-05-06 17:39:49,924 Test Without Attack, Accuracy: 98.88%
+LeNet:2023-05-06 17:39:52,949 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.14%
+LeNet:2023-05-06 17:39:56,307 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.15%
+LeNet:2023-05-06 17:39:59,686 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.78%
+LeNet:2023-05-06 17:40:03,066 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.74%
+LeNet:2023-05-06 17:40:27,311 Epoch [15/50], Loss: 0.0105
+LeNet:2023-05-06 17:40:41,989 Test Without Attack, Accuracy: 99.87%
+LeNet:2023-05-06 17:40:44,544 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 17:40:47,949 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.45%
+LeNet:2023-05-06 17:40:51,282 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.56%
+LeNet:2023-05-06 17:40:54,661 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 99.06%
+LeNet:2023-05-06 17:40:57,972 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 99.01%
+LeNet:2023-05-06 17:41:21,597 Epoch [16/50], Loss: 0.0109
+LeNet:2023-05-06 17:41:36,373 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 17:41:38,910 Test Without Attack, Accuracy: 99.14%
+LeNet:2023-05-06 17:41:42,327 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.28%
+LeNet:2023-05-06 17:41:45,755 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.21%
+LeNet:2023-05-06 17:41:49,149 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.92%
+LeNet:2023-05-06 17:41:52,529 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.89%
+LeNet:2023-05-06 17:42:15,840 Epoch [17/50], Loss: 0.0094
+LeNet:2023-05-06 17:42:31,141 Test Without Attack, Accuracy: 99.73%
+LeNet:2023-05-06 17:42:33,673 Test Without Attack, Accuracy: 99.12%
+LeNet:2023-05-06 17:42:37,080 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.19%
+LeNet:2023-05-06 17:42:40,492 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.15%
+LeNet:2023-05-06 17:42:43,873 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.92%
+LeNet:2023-05-06 17:42:47,251 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.88%
+LeNet:2023-05-06 17:43:10,598 Epoch [18/50], Loss: 0.0094
+LeNet:2023-05-06 17:43:25,723 Test Without Attack, Accuracy: 99.86%
+LeNet:2023-05-06 17:43:28,246 Test Without Attack, Accuracy: 98.98%
+LeNet:2023-05-06 17:43:31,793 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.21%
+LeNet:2023-05-06 17:43:34,710 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.17%
+LeNet:2023-05-06 17:43:37,996 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.83%
+LeNet:2023-05-06 17:43:41,328 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.82%
+LeNet:2023-05-06 17:44:06,054 Epoch [19/50], Loss: 0.0086
+LeNet:2023-05-06 17:44:20,938 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 17:44:23,466 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 17:44:26,853 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.36%
+LeNet:2023-05-06 17:44:30,216 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.32%
+LeNet:2023-05-06 17:44:33,578 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 99.00%
+LeNet:2023-05-06 17:44:36,935 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.94%
+LeNet:2023-05-06 17:45:00,310 Epoch [20/50], Loss: 0.0085
+LeNet:2023-05-06 17:45:15,394 Test Without Attack, Accuracy: 99.82%
+LeNet:2023-05-06 17:45:17,956 Test Without Attack, Accuracy: 99.05%
+LeNet:2023-05-06 17:45:21,442 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.19%
+LeNet:2023-05-06 17:45:24,839 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.13%
+LeNet:2023-05-06 17:45:28,326 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.76%
+LeNet:2023-05-06 17:45:31,720 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.70%
+LeNet:2023-05-06 17:45:55,604 Epoch [21/50], Loss: 0.0084
+LeNet:2023-05-06 17:46:10,453 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 17:46:13,010 Test Without Attack, Accuracy: 98.86%
+LeNet:2023-05-06 17:46:16,462 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.28%
+LeNet:2023-05-06 17:46:19,903 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.29%
+LeNet:2023-05-06 17:46:23,467 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.85%
+LeNet:2023-05-06 17:46:26,893 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.85%
+LeNet:2023-05-06 17:46:50,188 Epoch [22/50], Loss: 0.0080
+LeNet:2023-05-06 17:47:04,896 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 17:47:07,434 Test Without Attack, Accuracy: 99.09%
+LeNet:2023-05-06 17:47:10,905 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.02%
+LeNet:2023-05-06 17:47:14,375 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.07%
+LeNet:2023-05-06 17:47:17,828 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.79%
+LeNet:2023-05-06 17:47:21,269 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 17:47:44,479 Epoch [23/50], Loss: 0.0080
+LeNet:2023-05-06 17:47:59,449 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 17:48:01,966 Test Without Attack, Accuracy: 99.21%
+LeNet:2023-05-06 17:48:05,410 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.27%
+LeNet:2023-05-06 17:48:08,839 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.18%
+LeNet:2023-05-06 17:48:12,273 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.98%
+LeNet:2023-05-06 17:48:15,693 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.97%
+LeNet:2023-05-06 17:48:39,038 Epoch [24/50], Loss: 0.0075
+LeNet:2023-05-06 17:48:53,798 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 17:48:56,327 Test Without Attack, Accuracy: 99.07%
+LeNet:2023-05-06 17:48:59,765 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.14%
+LeNet:2023-05-06 17:49:03,200 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.22%
+LeNet:2023-05-06 17:49:06,613 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.88%
+LeNet:2023-05-06 17:49:10,029 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.84%
+LeNet:2023-05-06 17:49:33,838 Epoch [25/50], Loss: 0.0075
+LeNet:2023-05-06 17:49:48,879 Test Without Attack, Accuracy: 99.75%
+LeNet:2023-05-06 17:49:51,457 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 17:49:54,924 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.09%
+LeNet:2023-05-06 17:49:58,386 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.67%
+LeNet:2023-05-06 17:50:02,103 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.84%
+LeNet:2023-05-06 17:50:05,557 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.80%
+LeNet:2023-05-06 17:50:32,284 Epoch [26/50], Loss: 0.0076
+LeNet:2023-05-06 17:50:46,978 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 17:50:49,474 Test Without Attack, Accuracy: 99.17%
+LeNet:2023-05-06 17:50:52,982 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.32%
+LeNet:2023-05-06 17:50:56,435 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.33%
+LeNet:2023-05-06 17:50:59,824 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.95%
+LeNet:2023-05-06 17:51:03,265 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.94%
+LeNet:2023-05-06 17:51:27,877 Epoch [27/50], Loss: 0.0069
+LeNet:2023-05-06 17:51:42,674 Test Without Attack, Accuracy: 99.73%
+LeNet:2023-05-06 17:51:45,150 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 17:51:48,665 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.25%
+LeNet:2023-05-06 17:51:52,120 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.10%
+LeNet:2023-05-06 17:51:55,700 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.99%
+LeNet:2023-05-06 17:51:59,130 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.97%
+LeNet:2023-05-06 17:52:23,256 Epoch [28/50], Loss: 0.0071
+LeNet:2023-05-06 17:52:37,990 Test Without Attack, Accuracy: 99.25%
+LeNet:2023-05-06 17:52:40,481 Test Without Attack, Accuracy: 98.28%
+LeNet:2023-05-06 17:52:43,976 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.06%
+LeNet:2023-05-06 17:52:47,414 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.58%
+LeNet:2023-05-06 17:52:50,873 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.04%
+LeNet:2023-05-06 17:52:54,310 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.02%
+LeNet:2023-05-06 17:53:18,268 Epoch [29/50], Loss: 0.0062
+LeNet:2023-05-06 17:53:33,066 Test Without Attack, Accuracy: 99.90%
+LeNet:2023-05-06 17:53:35,593 Test Without Attack, Accuracy: 99.22%
+LeNet:2023-05-06 17:53:39,150 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.27%
+LeNet:2023-05-06 17:53:42,571 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.30%
+LeNet:2023-05-06 17:53:45,991 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.94%
+LeNet:2023-05-06 17:53:49,344 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.95%
+LeNet:2023-05-06 17:54:13,191 Epoch [30/50], Loss: 0.0072
+LeNet:2023-05-06 17:54:28,069 Test Without Attack, Accuracy: 99.93%
+LeNet:2023-05-06 17:54:30,603 Test Without Attack, Accuracy: 99.09%
+LeNet:2023-05-06 17:54:34,115 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.43%
+LeNet:2023-05-06 17:54:37,502 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.35%
+LeNet:2023-05-06 17:54:40,919 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 99.09%
+LeNet:2023-05-06 17:54:44,333 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 99.04%
+LeNet:2023-05-06 17:55:08,513 Epoch [31/50], Loss: 0.0071
+LeNet:2023-05-06 17:55:24,595 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 17:55:27,187 Test Without Attack, Accuracy: 99.02%
+LeNet:2023-05-06 17:55:30,536 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.26%
+LeNet:2023-05-06 17:55:33,859 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.29%
+LeNet:2023-05-06 17:55:37,178 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.88%
+LeNet:2023-05-06 17:55:40,523 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.87%
+LeNet:2023-05-06 17:56:04,674 Epoch [32/50], Loss: 0.0061
+LeNet:2023-05-06 17:56:19,664 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 17:56:22,220 Test Without Attack, Accuracy: 99.04%
+LeNet:2023-05-06 17:56:25,643 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.14%
+LeNet:2023-05-06 17:56:28,945 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.25%
+LeNet:2023-05-06 17:56:32,297 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.83%
+LeNet:2023-05-06 17:56:35,640 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.84%
+LeNet:2023-05-06 17:56:59,476 Epoch [33/50], Loss: 0.0083
+LeNet:2023-05-06 17:57:14,210 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 17:57:16,705 Test Without Attack, Accuracy: 98.99%
+LeNet:2023-05-06 17:57:20,031 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.41%
+LeNet:2023-05-06 17:57:23,334 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.58%
+LeNet:2023-05-06 17:57:26,633 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.95%
+LeNet:2023-05-06 17:57:29,923 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.95%
+LeNet:2023-05-06 17:57:54,089 Epoch [34/50], Loss: 0.0053
+LeNet:2023-05-06 17:58:08,952 Test Without Attack, Accuracy: 99.92%
+LeNet:2023-05-06 17:58:11,443 Test Without Attack, Accuracy: 99.19%
+LeNet:2023-05-06 17:58:14,763 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.31%
+LeNet:2023-05-06 17:58:18,081 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.42%
+LeNet:2023-05-06 17:58:21,397 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 99.00%
+LeNet:2023-05-06 17:58:24,731 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 17:58:48,606 Epoch [35/50], Loss: 0.0076
+LeNet:2023-05-06 17:59:03,485 Test Without Attack, Accuracy: 99.89%
+LeNet:2023-05-06 17:59:05,944 Test Without Attack, Accuracy: 99.02%
+LeNet:2023-05-06 17:59:09,241 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.15%
+LeNet:2023-05-06 17:59:12,554 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.06%
+LeNet:2023-05-06 17:59:15,868 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.85%
+LeNet:2023-05-06 17:59:19,172 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.82%
+LeNet:2023-05-06 17:59:43,012 Epoch [36/50], Loss: 0.0070
+LeNet:2023-05-06 17:59:57,709 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 18:00:00,187 Test Without Attack, Accuracy: 99.09%
+LeNet:2023-05-06 18:00:03,479 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.34%
+LeNet:2023-05-06 18:00:06,770 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.35%
+LeNet:2023-05-06 18:00:10,069 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.89%
+LeNet:2023-05-06 18:00:13,371 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.88%
+LeNet:2023-05-06 18:00:37,284 Epoch [37/50], Loss: 0.0058
+LeNet:2023-05-06 18:00:52,059 Test Without Attack, Accuracy: 99.87%
+LeNet:2023-05-06 18:00:54,522 Test Without Attack, Accuracy: 99.07%
+LeNet:2023-05-06 18:00:57,834 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.23%
+LeNet:2023-05-06 18:01:01,159 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.14%
+LeNet:2023-05-06 18:01:04,444 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.75%
+LeNet:2023-05-06 18:01:07,733 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.73%
+LeNet:2023-05-06 18:01:31,595 Epoch [38/50], Loss: 0.0060
+LeNet:2023-05-06 18:01:46,406 Test Without Attack, Accuracy: 99.84%
+LeNet:2023-05-06 18:01:48,893 Test Without Attack, Accuracy: 98.94%
+LeNet:2023-05-06 18:01:52,210 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.05%
+LeNet:2023-05-06 18:01:55,507 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.15%
+LeNet:2023-05-06 18:01:58,830 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.71%
+LeNet:2023-05-06 18:02:02,151 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.64%
+LeNet:2023-05-06 18:02:25,945 Epoch [39/50], Loss: 0.0061
+LeNet:2023-05-06 18:02:40,725 Test Without Attack, Accuracy: 99.87%
+LeNet:2023-05-06 18:02:43,205 Test Without Attack, Accuracy: 99.06%
+LeNet:2023-05-06 18:02:46,532 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.99%
+LeNet:2023-05-06 18:02:49,819 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.79%
+LeNet:2023-05-06 18:02:53,119 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.79%
+LeNet:2023-05-06 18:02:56,399 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.73%
+LeNet:2023-05-06 18:03:20,153 Epoch [40/50], Loss: 0.0059
+LeNet:2023-05-06 18:03:34,849 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 18:03:37,356 Test Without Attack, Accuracy: 99.01%
+LeNet:2023-05-06 18:03:40,656 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.17%
+LeNet:2023-05-06 18:03:43,959 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.22%
+LeNet:2023-05-06 18:03:47,243 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.84%
+LeNet:2023-05-06 18:03:50,562 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.81%
+LeNet:2023-05-06 18:04:14,340 Epoch [41/50], Loss: 0.0060
+LeNet:2023-05-06 18:04:29,096 Test Without Attack, Accuracy: 99.90%
+LeNet:2023-05-06 18:04:31,560 Test Without Attack, Accuracy: 99.06%
+LeNet:2023-05-06 18:04:34,854 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.35%
+LeNet:2023-05-06 18:04:38,117 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.46%
+LeNet:2023-05-06 18:04:42,242 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.97%
+LeNet:2023-05-06 18:04:45,955 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.94%
+LeNet:2023-05-06 18:05:10,638 Epoch [42/50], Loss: 0.0065
+LeNet:2023-05-06 18:05:25,785 Test Without Attack, Accuracy: 99.86%
+LeNet:2023-05-06 18:05:28,307 Test Without Attack, Accuracy: 99.11%
+LeNet:2023-05-06 18:05:31,722 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.12%
+LeNet:2023-05-06 18:05:35,137 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.12%
+LeNet:2023-05-06 18:05:38,542 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.84%
+LeNet:2023-05-06 18:05:41,875 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.81%
+LeNet:2023-05-06 18:06:05,420 Epoch [43/50], Loss: 0.0064
+LeNet:2023-05-06 18:06:20,469 Test Without Attack, Accuracy: 99.95%
+LeNet:2023-05-06 18:06:23,095 Test Without Attack, Accuracy: 99.17%
+LeNet:2023-05-06 18:06:26,589 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.25%
+LeNet:2023-05-06 18:06:30,054 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.20%
+LeNet:2023-05-06 18:06:33,421 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.66%
+LeNet:2023-05-06 18:06:36,797 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.89%
+LeNet:2023-05-06 18:07:03,570 Epoch [44/50], Loss: 0.0077
+LeNet:2023-05-06 18:07:26,902 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 18:07:30,570 Test Without Attack, Accuracy: 99.03%
+LeNet:2023-05-06 18:07:35,607 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.96%
+LeNet:2023-05-06 18:07:40,362 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.90%
+LeNet:2023-05-06 18:07:44,242 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.66%
+LeNet:2023-05-06 18:07:48,262 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.05%
+LeNet:2023-05-06 18:08:19,993 Epoch [45/50], Loss: 0.0062
+LeNet:2023-05-06 18:08:35,709 Test Without Attack, Accuracy: 99.93%
+LeNet:2023-05-06 18:08:38,309 Test Without Attack, Accuracy: 99.09%
+LeNet:2023-05-06 18:08:41,791 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.08%
+LeNet:2023-05-06 18:08:45,278 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.24%
+LeNet:2023-05-06 18:08:48,663 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.48%
+LeNet:2023-05-06 18:08:51,976 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 18:09:26,148 Epoch [46/50], Loss: 0.0059
+LeNet:2023-05-06 18:09:43,210 Test Without Attack, Accuracy: 99.95%
+LeNet:2023-05-06 18:09:46,055 Test Without Attack, Accuracy: 99.20%
+LeNet:2023-05-06 18:09:50,058 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.27%
+LeNet:2023-05-06 18:09:54,140 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.34%
+LeNet:2023-05-06 18:09:58,266 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.58%
+LeNet:2023-05-06 18:10:02,195 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.83%
+LeNet:2023-05-06 18:10:35,662 Epoch [47/50], Loss: 0.0057
+LeNet:2023-05-06 18:10:55,954 Test Without Attack, Accuracy: 99.92%
+LeNet:2023-05-06 18:11:00,771 Test Without Attack, Accuracy: 99.17%
+LeNet:2023-05-06 18:11:06,415 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.21%
+LeNet:2023-05-06 18:11:12,255 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.22%
+LeNet:2023-05-06 18:11:18,190 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.55%
+LeNet:2023-05-06 18:11:22,718 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.50%
+LeNet:2023-05-06 18:12:01,857 Epoch [48/50], Loss: 0.0066
+LeNet:2023-05-06 18:12:20,975 Test Without Attack, Accuracy: 99.97%
+LeNet:2023-05-06 18:12:24,498 Test Without Attack, Accuracy: 99.10%
+LeNet:2023-05-06 18:12:28,993 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.38%
+LeNet:2023-05-06 18:12:33,342 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.60%
+LeNet:2023-05-06 18:12:37,574 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.78%
+LeNet:2023-05-06 18:12:41,852 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 18:13:17,699 Epoch [49/50], Loss: 0.0045
+LeNet:2023-05-06 18:13:34,799 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 18:13:37,799 Test Without Attack, Accuracy: 99.01%
+LeNet:2023-05-06 18:13:41,832 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.14%
+LeNet:2023-05-06 18:13:45,860 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.25%
+LeNet:2023-05-06 18:13:49,851 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.78%
+LeNet:2023-05-06 18:13:53,840 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.76%
+LeNet:2023-05-06 18:14:25,070 Epoch [50/50], Loss: 0.0068
+LeNet:2023-05-06 18:14:42,999 Test Without Attack, Accuracy: 99.94%
+LeNet:2023-05-06 18:14:46,019 Test Without Attack, Accuracy: 99.15%
+LeNet:2023-05-06 18:14:50,055 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.31%
+LeNet:2023-05-06 18:14:54,167 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 97.44%
+LeNet:2023-05-06 18:14:58,332 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.79%
+LeNet:2023-05-06 18:15:02,439 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.30%
+LeNet:2023-05-06 18:15:02,439 Training completed. Best loss is 0.00446179821579227, in epoch 49
+LeNet:2023-05-06 18:15:02,953 Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+LeNet:2023-05-06 18:15:02,953 NumExpr defaulting to 8 threads.
+LeNet:2023-05-06 18:58:32,753 Epoch [1/50], Loss: 0.0891
+LeNet:2023-05-06 18:58:51,909 Test Without Attack, Accuracy: 97.75%
+LeNet:2023-05-06 18:58:55,199 Test Without Attack, Accuracy: 97.82%
+LeNet:2023-05-06 18:58:58,937 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 95.89%
+LeNet:2023-05-06 18:59:03,066 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 93.60%
+LeNet:2023-05-06 18:59:06,784 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.42%
+LeNet:2023-05-06 18:59:10,489 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.36%
+LeNet:2023-05-06 18:59:39,906 Epoch [2/50], Loss: 0.0296
+LeNet:2023-05-06 18:59:59,485 Test Without Attack, Accuracy: 98.37%
+LeNet:2023-05-06 19:00:02,604 Test Without Attack, Accuracy: 97.99%
+LeNet:2023-05-06 19:00:06,604 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.69%
+LeNet:2023-05-06 19:00:10,633 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.64%
+LeNet:2023-05-06 19:00:14,115 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.99%
+LeNet:2023-05-06 19:00:18,057 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.91%
+LeNet:2023-05-06 19:00:47,843 Epoch [3/50], Loss: 0.0216
+LeNet:2023-05-06 19:01:05,826 Test Without Attack, Accuracy: 99.11%
+LeNet:2023-05-06 19:01:08,708 Test Without Attack, Accuracy: 98.75%
+LeNet:2023-05-06 19:01:12,261 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.49%
+LeNet:2023-05-06 19:01:15,887 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.14%
+LeNet:2023-05-06 19:01:19,910 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.36%
+LeNet:2023-05-06 19:01:23,441 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.30%
+LeNet:2023-05-06 19:01:54,834 Epoch [4/50], Loss: 0.0176
+LeNet:2023-05-06 19:02:11,605 Test Without Attack, Accuracy: 99.11%
+LeNet:2023-05-06 19:02:14,536 Test Without Attack, Accuracy: 98.57%
+LeNet:2023-05-06 19:02:18,828 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.13%
+LeNet:2023-05-06 19:02:22,727 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.99%
+LeNet:2023-05-06 19:02:26,624 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.38%
+LeNet:2023-05-06 19:02:30,445 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.25%
+LeNet:2023-05-06 19:03:01,008 Epoch [5/50], Loss: 0.0141
+LeNet:2023-05-06 19:03:20,947 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 19:03:24,638 Test Without Attack, Accuracy: 98.66%
+LeNet:2023-05-06 19:03:28,689 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.40%
+LeNet:2023-05-06 19:03:32,278 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.92%
+LeNet:2023-05-06 19:03:35,672 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.45%
+LeNet:2023-05-06 19:03:39,333 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.40%
+LeNet:2023-05-06 19:04:07,544 Epoch [6/50], Loss: 0.0116
+LeNet:2023-05-06 19:04:23,991 Test Without Attack, Accuracy: 99.44%
+LeNet:2023-05-06 19:04:26,804 Test Without Attack, Accuracy: 98.84%
+LeNet:2023-05-06 19:04:30,408 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.70%
+LeNet:2023-05-06 19:04:34,007 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.44%
+LeNet:2023-05-06 19:04:37,586 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.74%
+LeNet:2023-05-06 19:04:41,203 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.67%
+LeNet:2023-05-06 19:05:06,920 Epoch [7/50], Loss: 0.0099
+LeNet:2023-05-06 19:05:24,067 Test Without Attack, Accuracy: 99.55%
+LeNet:2023-05-06 19:05:27,005 Test Without Attack, Accuracy: 99.05%
+LeNet:2023-05-06 19:05:30,987 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.52%
+LeNet:2023-05-06 19:05:34,383 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.24%
+LeNet:2023-05-06 19:05:37,976 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.67%
+LeNet:2023-05-06 19:05:41,615 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.59%
+LeNet:2023-05-06 19:06:07,719 Epoch [8/50], Loss: 0.0087
+LeNet:2023-05-06 19:06:24,523 Test Without Attack, Accuracy: 99.44%
+LeNet:2023-05-06 19:06:27,254 Test Without Attack, Accuracy: 98.83%
+LeNet:2023-05-06 19:06:30,848 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.52%
+LeNet:2023-05-06 19:06:34,513 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.77%
+LeNet:2023-05-06 19:06:38,156 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.47%
+LeNet:2023-05-06 19:06:41,753 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.39%
+LeNet:2023-05-06 19:07:07,412 Epoch [9/50], Loss: 0.0087
+LeNet:2023-05-06 19:07:23,400 Test Without Attack, Accuracy: 99.69%
+LeNet:2023-05-06 19:07:26,149 Test Without Attack, Accuracy: 99.00%
+LeNet:2023-05-06 19:07:29,726 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.57%
+LeNet:2023-05-06 19:07:33,369 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.10%
+LeNet:2023-05-06 19:07:36,882 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.65%
+LeNet:2023-05-06 19:07:40,470 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.60%
+LeNet:2023-05-06 19:08:06,034 Epoch [10/50], Loss: 0.0079
+LeNet:2023-05-06 19:08:21,946 Test Without Attack, Accuracy: 99.54%
+LeNet:2023-05-06 19:08:24,657 Test Without Attack, Accuracy: 98.77%
+LeNet:2023-05-06 19:08:28,435 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.62%
+LeNet:2023-05-06 19:08:32,256 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.09%
+LeNet:2023-05-06 19:08:36,197 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.58%
+LeNet:2023-05-06 19:08:39,935 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.58%
+LeNet:2023-05-06 19:09:08,136 Epoch [11/50], Loss: 0.0068
+LeNet:2023-05-06 19:09:23,852 Test Without Attack, Accuracy: 99.66%
+LeNet:2023-05-06 19:09:26,658 Test Without Attack, Accuracy: 98.95%
+LeNet:2023-05-06 19:09:30,061 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.46%
+LeNet:2023-05-06 19:09:33,690 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.93%
+LeNet:2023-05-06 19:09:37,345 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.53%
+LeNet:2023-05-06 19:09:41,038 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.48%
+LeNet:2023-05-06 19:10:08,135 Epoch [12/50], Loss: 0.0065
+LeNet:2023-05-06 19:10:25,150 Test Without Attack, Accuracy: 99.58%
+LeNet:2023-05-06 19:10:27,995 Test Without Attack, Accuracy: 98.80%
+LeNet:2023-05-06 19:10:31,211 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.48%
+LeNet:2023-05-06 19:10:34,401 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.75%
+LeNet:2023-05-06 19:10:37,949 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.46%
+LeNet:2023-05-06 19:10:41,551 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.46%
+LeNet:2023-05-06 19:11:07,433 Epoch [13/50], Loss: 0.0060
+LeNet:2023-05-06 19:11:23,806 Test Without Attack, Accuracy: 99.63%
+LeNet:2023-05-06 19:11:26,524 Test Without Attack, Accuracy: 98.76%
+LeNet:2023-05-06 19:11:30,346 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.44%
+LeNet:2023-05-06 19:11:34,063 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.76%
+LeNet:2023-05-06 19:11:37,681 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.45%
+LeNet:2023-05-06 19:11:41,274 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.41%
+LeNet:2023-05-06 19:12:07,512 Epoch [14/50], Loss: 0.0051
+LeNet:2023-05-06 19:12:25,602 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 19:12:28,381 Test Without Attack, Accuracy: 99.11%
+LeNet:2023-05-06 19:12:31,995 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.70%
+LeNet:2023-05-06 19:12:35,496 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.39%
+LeNet:2023-05-06 19:12:38,736 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.77%
+LeNet:2023-05-06 19:12:42,066 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.75%
+LeNet:2023-05-06 19:13:08,091 Epoch [15/50], Loss: 0.0055
+LeNet:2023-05-06 19:13:24,166 Test Without Attack, Accuracy: 99.75%
+LeNet:2023-05-06 19:13:26,885 Test Without Attack, Accuracy: 99.05%
+LeNet:2023-05-06 19:13:30,527 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.83%
+LeNet:2023-05-06 19:13:34,108 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.26%
+LeNet:2023-05-06 19:13:37,716 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.70%
+LeNet:2023-05-06 19:13:41,299 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.61%
+LeNet:2023-05-06 19:14:07,003 Epoch [16/50], Loss: 0.0050
+LeNet:2023-05-06 19:14:23,315 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 19:14:26,055 Test Without Attack, Accuracy: 99.03%
+LeNet:2023-05-06 19:14:29,668 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.50%
+LeNet:2023-05-06 19:14:33,336 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.66%
+LeNet:2023-05-06 19:14:36,864 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.52%
+LeNet:2023-05-06 19:14:40,515 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.43%
+LeNet:2023-05-06 19:15:06,423 Epoch [17/50], Loss: 0.0048
+LeNet:2023-05-06 19:15:21,874 Test Without Attack, Accuracy: 99.80%
+LeNet:2023-05-06 19:15:24,659 Test Without Attack, Accuracy: 99.10%
+LeNet:2023-05-06 19:15:28,363 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.85%
+LeNet:2023-05-06 19:15:31,572 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.66%
+LeNet:2023-05-06 19:15:34,821 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.70%
+LeNet:2023-05-06 19:15:38,145 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.62%
+LeNet:2023-05-06 19:16:05,614 Epoch [18/50], Loss: 0.0052
+LeNet:2023-05-06 19:16:24,704 Test Without Attack, Accuracy: 99.67%
+LeNet:2023-05-06 19:16:28,261 Test Without Attack, Accuracy: 98.89%
+LeNet:2023-05-06 19:16:32,583 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.41%
+LeNet:2023-05-06 19:16:36,958 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.62%
+LeNet:2023-05-06 19:16:41,009 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.39%
+LeNet:2023-05-06 19:16:45,287 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.34%
+LeNet:2023-05-06 19:17:16,264 Epoch [19/50], Loss: 0.0046
+LeNet:2023-05-06 19:17:33,622 Test Without Attack, Accuracy: 99.85%
+LeNet:2023-05-06 19:17:36,489 Test Without Attack, Accuracy: 98.93%
+LeNet:2023-05-06 19:17:40,471 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.74%
+LeNet:2023-05-06 19:17:44,125 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.34%
+LeNet:2023-05-06 19:17:48,253 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.59%
+LeNet:2023-05-06 19:17:51,869 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.55%
+LeNet:2023-05-06 19:18:19,385 Epoch [20/50], Loss: 0.0039
+LeNet:2023-05-06 19:18:35,232 Test Without Attack, Accuracy: 99.73%
+LeNet:2023-05-06 19:18:37,941 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 19:18:41,504 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.53%
+LeNet:2023-05-06 19:18:45,054 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.87%
+LeNet:2023-05-06 19:18:48,628 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.56%
+LeNet:2023-05-06 19:18:52,149 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.51%
+LeNet:2023-05-06 19:19:18,019 Epoch [21/50], Loss: 0.0039
+LeNet:2023-05-06 19:19:33,809 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 19:19:36,492 Test Without Attack, Accuracy: 98.99%
+LeNet:2023-05-06 19:19:40,046 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.66%
+LeNet:2023-05-06 19:19:43,611 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.96%
+LeNet:2023-05-06 19:19:47,155 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.82%
+LeNet:2023-05-06 19:19:50,666 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 19:20:16,477 Epoch [22/50], Loss: 0.0044
+LeNet:2023-05-06 19:20:32,308 Test Without Attack, Accuracy: 99.84%
+LeNet:2023-05-06 19:20:35,010 Test Without Attack, Accuracy: 98.95%
+LeNet:2023-05-06 19:20:38,551 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.75%
+LeNet:2023-05-06 19:20:42,075 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.36%
+LeNet:2023-05-06 19:20:45,605 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.71%
+LeNet:2023-05-06 19:20:49,114 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 19:21:14,959 Epoch [23/50], Loss: 0.0036
+LeNet:2023-05-06 19:21:30,802 Test Without Attack, Accuracy: 99.80%
+LeNet:2023-05-06 19:21:33,496 Test Without Attack, Accuracy: 98.86%
+LeNet:2023-05-06 19:21:37,064 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.45%
+LeNet:2023-05-06 19:21:40,598 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.98%
+LeNet:2023-05-06 19:21:44,131 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 19:21:47,682 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.46%
+LeNet:2023-05-06 19:22:21,312 Epoch [24/50], Loss: 0.0038
+LeNet:2023-05-06 19:22:39,151 Test Without Attack, Accuracy: 99.86%
+LeNet:2023-05-06 19:22:41,846 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 19:22:45,640 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.87%
+LeNet:2023-05-06 19:22:49,685 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.44%
+LeNet:2023-05-06 19:22:53,524 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.62%
+LeNet:2023-05-06 19:22:57,558 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.57%
+LeNet:2023-05-06 19:23:29,715 Epoch [25/50], Loss: 0.0038
+LeNet:2023-05-06 19:23:46,301 Test Without Attack, Accuracy: 99.72%
+LeNet:2023-05-06 19:23:49,123 Test Without Attack, Accuracy: 98.88%
+LeNet:2023-05-06 19:23:52,897 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.21%
+LeNet:2023-05-06 19:23:56,570 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.52%
+LeNet:2023-05-06 19:24:00,207 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.39%
+LeNet:2023-05-06 19:24:04,014 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.29%
+LeNet:2023-05-06 19:24:30,170 Epoch [26/50], Loss: 0.0037
+LeNet:2023-05-06 19:24:46,686 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 19:24:49,519 Test Without Attack, Accuracy: 99.08%
+LeNet:2023-05-06 19:24:53,233 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.76%
+LeNet:2023-05-06 19:24:56,884 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.32%
+LeNet:2023-05-06 19:25:00,474 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.81%
+LeNet:2023-05-06 19:25:04,106 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.74%
+LeNet:2023-05-06 19:25:30,610 Epoch [27/50], Loss: 0.0025
+LeNet:2023-05-06 19:25:47,274 Test Without Attack, Accuracy: 99.76%
+LeNet:2023-05-06 19:25:50,083 Test Without Attack, Accuracy: 98.87%
+LeNet:2023-05-06 19:25:53,845 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.58%
+LeNet:2023-05-06 19:25:57,590 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.32%
+LeNet:2023-05-06 19:26:01,282 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.57%
+LeNet:2023-05-06 19:26:04,971 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.53%
+LeNet:2023-05-06 19:26:31,254 Epoch [28/50], Loss: 0.0042
+LeNet:2023-05-06 19:26:48,154 Test Without Attack, Accuracy: 99.85%
+LeNet:2023-05-06 19:26:50,950 Test Without Attack, Accuracy: 99.05%
+LeNet:2023-05-06 19:26:54,645 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.78%
+LeNet:2023-05-06 19:26:58,304 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.33%
+LeNet:2023-05-06 19:27:02,244 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.74%
+LeNet:2023-05-06 19:27:06,580 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 19:27:38,309 Epoch [29/50], Loss: 0.0037
+LeNet:2023-05-06 19:27:54,863 Test Without Attack, Accuracy: 99.87%
+LeNet:2023-05-06 19:27:58,127 Test Without Attack, Accuracy: 99.00%
+LeNet:2023-05-06 19:28:02,060 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.81%
+LeNet:2023-05-06 19:28:06,590 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.55%
+LeNet:2023-05-06 19:28:10,156 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.71%
+LeNet:2023-05-06 19:28:13,608 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.64%
+LeNet:2023-05-06 19:28:39,546 Epoch [30/50], Loss: 0.0039
+LeNet:2023-05-06 19:28:55,083 Test Without Attack, Accuracy: 99.79%
+LeNet:2023-05-06 19:28:57,711 Test Without Attack, Accuracy: 98.97%
+LeNet:2023-05-06 19:29:01,136 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.65%
+LeNet:2023-05-06 19:29:04,557 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.21%
+LeNet:2023-05-06 19:29:07,991 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.72%
+LeNet:2023-05-06 19:29:11,424 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.65%
+LeNet:2023-05-06 19:29:37,206 Epoch [31/50], Loss: 0.0031
+LeNet:2023-05-06 19:29:52,771 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 19:29:55,428 Test Without Attack, Accuracy: 98.77%
+LeNet:2023-05-06 19:29:58,844 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.40%
+LeNet:2023-05-06 19:30:02,263 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.78%
+LeNet:2023-05-06 19:30:05,694 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.36%
+LeNet:2023-05-06 19:30:09,123 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.30%
+LeNet:2023-05-06 19:30:34,909 Epoch [32/50], Loss: 0.0042
+LeNet:2023-05-06 19:30:50,443 Test Without Attack, Accuracy: 99.80%
+LeNet:2023-05-06 19:30:53,091 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 19:30:56,509 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.60%
+LeNet:2023-05-06 19:30:59,961 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.26%
+LeNet:2023-05-06 19:31:03,397 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 19:31:06,818 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.41%
+LeNet:2023-05-06 19:31:33,399 Epoch [33/50], Loss: 0.0032
+LeNet:2023-05-06 19:31:50,080 Test Without Attack, Accuracy: 99.83%
+LeNet:2023-05-06 19:31:52,735 Test Without Attack, Accuracy: 98.84%
+LeNet:2023-05-06 19:31:56,148 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.47%
+LeNet:2023-05-06 19:31:59,558 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.05%
+LeNet:2023-05-06 19:32:02,979 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.42%
+LeNet:2023-05-06 19:32:06,397 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.43%
+LeNet:2023-05-06 19:32:31,994 Epoch [34/50], Loss: nan
+LeNet:2023-05-06 19:32:47,569 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:32:50,213 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:32:53,612 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:32:57,007 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:00,436 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:03,861 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:29,376 Epoch [35/50], Loss: nan
+LeNet:2023-05-06 19:33:44,895 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:33:47,530 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:50,940 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:54,346 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:33:57,764 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:01,191 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:26,631 Epoch [36/50], Loss: nan
+LeNet:2023-05-06 19:34:42,121 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:34:44,755 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:48,159 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:51,557 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:54,968 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:34:58,392 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:35:23,991 Epoch [37/50], Loss: nan
+LeNet:2023-05-06 19:35:39,624 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:35:42,337 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:35:45,747 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:35:49,176 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:35:52,582 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:35:55,984 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:36:21,567 Epoch [38/50], Loss: nan
+LeNet:2023-05-06 19:36:37,022 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:36:39,661 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:36:43,113 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:36:46,521 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:36:49,949 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:36:53,366 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:37:18,892 Epoch [39/50], Loss: nan
+LeNet:2023-05-06 19:37:34,569 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:37:37,199 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:37:40,626 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:37:44,026 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:37:47,488 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:37:50,920 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:38:16,410 Epoch [40/50], Loss: nan
+LeNet:2023-05-06 19:38:31,916 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:38:34,576 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:38:37,980 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:38:41,392 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:38:44,793 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:38:48,260 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:39:13,639 Epoch [41/50], Loss: nan
+LeNet:2023-05-06 19:39:29,120 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:39:31,787 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:39:35,198 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:39:38,611 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:39:42,127 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:39:45,595 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:40:11,180 Epoch [42/50], Loss: nan
+LeNet:2023-05-06 19:40:26,638 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:40:29,270 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:40:32,672 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:40:36,079 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:40:39,504 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:40:42,924 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:41:08,599 Epoch [43/50], Loss: nan
+LeNet:2023-05-06 19:41:24,187 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:41:26,812 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:41:30,221 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:41:33,641 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:41:37,046 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:41:40,466 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:42:06,081 Epoch [44/50], Loss: nan
+LeNet:2023-05-06 19:42:21,550 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:42:24,170 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:42:27,571 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:42:30,985 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:42:34,395 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:42:37,801 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:43:03,124 Epoch [45/50], Loss: nan
+LeNet:2023-05-06 19:43:18,546 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:43:21,190 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:43:24,620 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:43:28,018 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:43:31,467 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:43:34,887 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:00,574 Epoch [46/50], Loss: nan
+LeNet:2023-05-06 19:44:15,986 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:44:18,617 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:22,026 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:25,428 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:28,843 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:32,275 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:44:57,769 Epoch [47/50], Loss: nan
+LeNet:2023-05-06 19:45:13,262 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:45:15,913 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:45:19,336 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:45:22,744 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:45:26,189 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:45:29,613 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:45:55,144 Epoch [48/50], Loss: nan
+LeNet:2023-05-06 19:46:10,608 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:46:13,243 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:46:16,646 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:46:20,112 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:46:23,543 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:46:26,955 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:46:50,787 Epoch [49/50], Loss: nan
+LeNet:2023-05-06 19:47:05,485 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:47:08,040 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:47:11,370 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:47:14,705 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:47:18,055 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:47:21,413 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:47:45,514 Epoch [50/50], Loss: nan
+LeNet:2023-05-06 19:48:00,338 Test Without Attack, Accuracy: 9.87%
+LeNet:2023-05-06 19:48:02,834 Test Without Attack, Accuracy: 9.80%
+LeNet:2023-05-06 19:48:06,179 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:48:09,543 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:48:12,910 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 9.80%
+LeNet:2023-05-06 19:48:16,256 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 9.80%
+LeNet:2023-05-06 19:48:16,257 Training completed. Best loss is 0.0025079589191005897, in epoch 27
+LeNet:2023-05-06 19:48:16,631 Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+LeNet:2023-05-06 19:48:16,631 NumExpr defaulting to 8 threads.
+LeNet:2023-05-06 20:47:35,762 Epoch [1/30], Loss: 0.0906
+LeNet:2023-05-06 20:47:53,210 Test Without Attack, Accuracy: 98.26%
+LeNet:2023-05-06 20:47:56,349 Test Without Attack, Accuracy: 98.24%
+LeNet:2023-05-06 20:48:00,390 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.44%
+LeNet:2023-05-06 20:48:03,859 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.18%
+LeNet:2023-05-06 20:48:07,768 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.86%
+LeNet:2023-05-06 20:48:11,685 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.78%
+LeNet:2023-05-06 20:48:41,970 Epoch [2/30], Loss: 0.0305
+LeNet:2023-05-06 20:48:58,588 Test Without Attack, Accuracy: 98.64%
+LeNet:2023-05-06 20:49:01,842 Test Without Attack, Accuracy: 98.36%
+LeNet:2023-05-06 20:49:05,426 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.71%
+LeNet:2023-05-06 20:49:08,805 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.06%
+LeNet:2023-05-06 20:49:12,303 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 97.93%
+LeNet:2023-05-06 20:49:15,861 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 97.87%
+LeNet:2023-05-06 20:49:41,822 Epoch [3/30], Loss: 0.0219
+LeNet:2023-05-06 20:49:57,718 Test Without Attack, Accuracy: 98.90%
+LeNet:2023-05-06 20:50:00,264 Test Without Attack, Accuracy: 98.65%
+LeNet:2023-05-06 20:50:03,634 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.06%
+LeNet:2023-05-06 20:50:06,818 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.17%
+LeNet:2023-05-06 20:50:10,522 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.25%
+LeNet:2023-05-06 20:50:14,165 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.17%
+LeNet:2023-05-06 20:50:41,553 Epoch [4/30], Loss: 0.0177
+LeNet:2023-05-06 20:50:58,155 Test Without Attack, Accuracy: 99.29%
+LeNet:2023-05-06 20:51:01,113 Test Without Attack, Accuracy: 98.80%
+LeNet:2023-05-06 20:51:04,739 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.46%
+LeNet:2023-05-06 20:51:08,375 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.79%
+LeNet:2023-05-06 20:51:11,853 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.50%
+LeNet:2023-05-06 20:51:15,606 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.47%
+LeNet:2023-05-06 20:51:46,165 Epoch [5/30], Loss: 0.0142
+LeNet:2023-05-06 20:52:02,753 Test Without Attack, Accuracy: 99.42%
+LeNet:2023-05-06 20:52:05,870 Test Without Attack, Accuracy: 98.81%
+LeNet:2023-05-06 20:52:09,716 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.27%
+LeNet:2023-05-06 20:52:13,264 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.62%
+LeNet:2023-05-06 20:52:16,801 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.46%
+LeNet:2023-05-06 20:52:20,729 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.39%
+LeNet:2023-05-06 20:52:48,780 Epoch [6/30], Loss: 0.0123
+LeNet:2023-05-06 20:53:10,459 Test Without Attack, Accuracy: 99.44%
+LeNet:2023-05-06 20:53:14,655 Test Without Attack, Accuracy: 98.95%
+LeNet:2023-05-06 20:53:19,880 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.60%
+LeNet:2023-05-06 20:53:24,872 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.10%
+LeNet:2023-05-06 20:53:29,701 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.54%
+LeNet:2023-05-06 20:53:33,964 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.50%
+LeNet:2023-05-06 20:54:06,618 Epoch [7/30], Loss: 0.0101
+LeNet:2023-05-06 20:54:25,376 Test Without Attack, Accuracy: 99.38%
+LeNet:2023-05-06 20:54:28,665 Test Without Attack, Accuracy: 98.74%
+LeNet:2023-05-06 20:54:32,651 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.56%
+LeNet:2023-05-06 20:54:36,498 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.87%
+LeNet:2023-05-06 20:54:40,676 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.54%
+LeNet:2023-05-06 20:54:44,773 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.49%
+LeNet:2023-05-06 20:55:13,075 Epoch [8/30], Loss: 0.0093
+LeNet:2023-05-06 20:55:30,190 Test Without Attack, Accuracy: 99.31%
+LeNet:2023-05-06 20:55:33,011 Test Without Attack, Accuracy: 98.66%
+LeNet:2023-05-06 20:55:36,849 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 96.47%
+LeNet:2023-05-06 20:55:40,632 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 94.54%
+LeNet:2023-05-06 20:55:44,360 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.16%
+LeNet:2023-05-06 20:55:48,084 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.07%
+LeNet:2023-05-06 20:56:14,770 Epoch [9/30], Loss: 0.0083
+LeNet:2023-05-06 20:56:31,318 Test Without Attack, Accuracy: 99.47%
+LeNet:2023-05-06 20:56:34,115 Test Without Attack, Accuracy: 98.85%
+LeNet:2023-05-06 20:56:37,865 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.25%
+LeNet:2023-05-06 20:56:41,529 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.31%
+LeNet:2023-05-06 20:56:45,252 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 20:56:48,985 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.44%
+LeNet:2023-05-06 20:57:16,229 Epoch [10/30], Loss: 0.0076
+LeNet:2023-05-06 20:57:32,704 Test Without Attack, Accuracy: 99.59%
+LeNet:2023-05-06 20:57:35,520 Test Without Attack, Accuracy: 98.79%
+LeNet:2023-05-06 20:57:38,767 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.44%
+LeNet:2023-05-06 20:57:42,251 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.64%
+LeNet:2023-05-06 20:57:45,773 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.37%
+LeNet:2023-05-06 20:57:49,187 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.34%
+LeNet:2023-05-06 20:58:15,601 Epoch [11/30], Loss: 0.0068
+LeNet:2023-05-06 20:58:32,091 Test Without Attack, Accuracy: 99.68%
+LeNet:2023-05-06 20:58:34,847 Test Without Attack, Accuracy: 98.85%
+LeNet:2023-05-06 20:58:38,606 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.23%
+LeNet:2023-05-06 20:58:42,303 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.63%
+LeNet:2023-05-06 20:58:45,949 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 20:58:49,599 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.46%
+LeNet:2023-05-06 20:59:16,745 Epoch [12/30], Loss: 0.0058
+LeNet:2023-05-06 20:59:33,738 Test Without Attack, Accuracy: 99.69%
+LeNet:2023-05-06 20:59:36,510 Test Without Attack, Accuracy: 99.01%
+LeNet:2023-05-06 20:59:40,143 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 98.06%
+LeNet:2023-05-06 20:59:43,778 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.81%
+LeNet:2023-05-06 20:59:47,608 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.85%
+LeNet:2023-05-06 20:59:52,143 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.78%
+LeNet:2023-05-06 21:00:30,444 Epoch [13/30], Loss: 0.0058
+LeNet:2023-05-06 21:00:52,429 Test Without Attack, Accuracy: 99.53%
+LeNet:2023-05-06 21:00:55,709 Test Without Attack, Accuracy: 98.59%
+LeNet:2023-05-06 21:00:59,920 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.62%
+LeNet:2023-05-06 21:01:04,101 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.06%
+LeNet:2023-05-06 21:01:07,914 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.61%
+LeNet:2023-05-06 21:01:12,003 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.60%
+LeNet:2023-05-06 21:01:46,322 Epoch [14/30], Loss: 0.0054
+LeNet:2023-05-06 21:02:02,684 Test Without Attack, Accuracy: 99.83%
+LeNet:2023-05-06 21:02:05,550 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 21:02:09,467 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.93%
+LeNet:2023-05-06 21:02:13,124 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.72%
+LeNet:2023-05-06 21:02:17,491 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.79%
+LeNet:2023-05-06 21:02:21,895 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.74%
+LeNet:2023-05-06 21:02:54,517 Epoch [15/30], Loss: 0.0054
+LeNet:2023-05-06 21:03:12,846 Test Without Attack, Accuracy: 99.67%
+LeNet:2023-05-06 21:03:16,182 Test Without Attack, Accuracy: 98.85%
+LeNet:2023-05-06 21:03:20,102 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.23%
+LeNet:2023-05-06 21:03:23,913 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.60%
+LeNet:2023-05-06 21:03:27,657 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.48%
+LeNet:2023-05-06 21:03:31,481 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.44%
+LeNet:2023-05-06 21:04:03,819 Epoch [16/30], Loss: 0.0049
+LeNet:2023-05-06 21:04:24,487 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 21:04:27,937 Test Without Attack, Accuracy: 99.18%
+LeNet:2023-05-06 21:04:31,886 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.80%
+LeNet:2023-05-06 21:04:35,208 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.32%
+LeNet:2023-05-06 21:04:38,861 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.82%
+LeNet:2023-05-06 21:04:42,618 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.74%
+LeNet:2023-05-06 21:05:10,169 Epoch [17/30], Loss: 0.0046
+LeNet:2023-05-06 21:05:28,123 Test Without Attack, Accuracy: 99.90%
+LeNet:2023-05-06 21:05:30,958 Test Without Attack, Accuracy: 99.15%
+LeNet:2023-05-06 21:05:34,401 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.73%
+LeNet:2023-05-06 21:05:38,105 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.24%
+LeNet:2023-05-06 21:05:41,614 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.81%
+LeNet:2023-05-06 21:05:45,250 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.69%
+LeNet:2023-05-06 21:06:14,331 Epoch [18/30], Loss: 0.0053
+LeNet:2023-05-06 21:06:33,026 Test Without Attack, Accuracy: 99.81%
+LeNet:2023-05-06 21:06:36,667 Test Without Attack, Accuracy: 99.10%
+LeNet:2023-05-06 21:06:41,259 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.73%
+LeNet:2023-05-06 21:06:45,832 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.24%
+LeNet:2023-05-06 21:06:50,059 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.75%
+LeNet:2023-05-06 21:06:54,237 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 21:07:25,364 Epoch [19/30], Loss: 0.0045
+LeNet:2023-05-06 21:07:43,514 Test Without Attack, Accuracy: 99.85%
+LeNet:2023-05-06 21:07:46,314 Test Without Attack, Accuracy: 99.02%
+LeNet:2023-05-06 21:07:50,037 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.52%
+LeNet:2023-05-06 21:07:53,271 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.76%
+LeNet:2023-05-06 21:07:57,527 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.66%
+LeNet:2023-05-06 21:08:01,726 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.65%
+LeNet:2023-05-06 21:08:44,339 Epoch [20/30], Loss: 0.0042
+LeNet:2023-05-06 21:09:27,647 Test Without Attack, Accuracy: 99.61%
+LeNet:2023-05-06 21:09:35,691 Test Without Attack, Accuracy: 98.75%
+LeNet:2023-05-06 21:09:42,548 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.05%
+LeNet:2023-05-06 21:09:50,264 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.14%
+LeNet:2023-05-06 21:09:55,708 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.40%
+LeNet:2023-05-06 21:10:00,091 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.33%
+LeNet:2023-05-06 21:10:39,189 Epoch [21/30], Loss: 0.0041
+LeNet:2023-05-06 21:11:00,277 Test Without Attack, Accuracy: 99.82%
+LeNet:2023-05-06 21:11:03,784 Test Without Attack, Accuracy: 98.96%
+LeNet:2023-05-06 21:11:07,922 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.87%
+LeNet:2023-05-06 21:11:12,202 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.53%
+LeNet:2023-05-06 21:11:16,477 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.79%
+LeNet:2023-05-06 21:11:21,204 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 21:11:57,698 Epoch [22/30], Loss: 0.0040
+LeNet:2023-05-06 21:12:19,392 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 21:12:23,143 Test Without Attack, Accuracy: 99.02%
+LeNet:2023-05-06 21:12:27,596 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.76%
+LeNet:2023-05-06 21:12:32,389 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.29%
+LeNet:2023-05-06 21:12:36,870 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.71%
+LeNet:2023-05-06 21:12:41,433 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.67%
+LeNet:2023-05-06 21:13:16,360 Epoch [23/30], Loss: 0.0035
+LeNet:2023-05-06 21:13:35,665 Test Without Attack, Accuracy: 99.81%
+LeNet:2023-05-06 21:13:39,112 Test Without Attack, Accuracy: 98.89%
+LeNet:2023-05-06 21:13:43,175 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.22%
+LeNet:2023-05-06 21:13:47,255 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.60%
+LeNet:2023-05-06 21:13:51,234 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.41%
+LeNet:2023-05-06 21:13:55,254 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.36%
+LeNet:2023-05-06 21:14:25,670 Epoch [24/30], Loss: 0.0038
+LeNet:2023-05-06 21:14:46,043 Test Without Attack, Accuracy: 99.88%
+LeNet:2023-05-06 21:14:49,570 Test Without Attack, Accuracy: 99.13%
+LeNet:2023-05-06 21:14:53,882 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.61%
+LeNet:2023-05-06 21:14:58,042 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.11%
+LeNet:2023-05-06 21:15:01,647 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.71%
+LeNet:2023-05-06 21:15:05,418 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.60%
+LeNet:2023-05-06 21:15:40,728 Epoch [25/30], Loss: 0.0031
+LeNet:2023-05-06 21:15:59,385 Test Without Attack, Accuracy: 99.78%
+LeNet:2023-05-06 21:16:02,966 Test Without Attack, Accuracy: 99.01%
+LeNet:2023-05-06 21:16:07,344 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.68%
+LeNet:2023-05-06 21:16:11,605 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.88%
+LeNet:2023-05-06 21:16:15,791 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.74%
+LeNet:2023-05-06 21:16:20,104 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.63%
+LeNet:2023-05-06 21:16:52,616 Epoch [26/30], Loss: 0.0037
+LeNet:2023-05-06 21:17:09,502 Test Without Attack, Accuracy: 99.65%
+LeNet:2023-05-06 21:17:12,326 Test Without Attack, Accuracy: 98.71%
+LeNet:2023-05-06 21:17:16,066 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.30%
+LeNet:2023-05-06 21:17:19,945 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.76%
+LeNet:2023-05-06 21:17:23,476 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.49%
+LeNet:2023-05-06 21:17:27,273 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.44%
+LeNet:2023-05-06 21:17:59,448 Epoch [27/30], Loss: 0.0040
+LeNet:2023-05-06 21:18:16,296 Test Without Attack, Accuracy: 99.91%
+LeNet:2023-05-06 21:18:19,425 Test Without Attack, Accuracy: 99.12%
+LeNet:2023-05-06 21:18:23,001 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.75%
+LeNet:2023-05-06 21:18:26,715 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 96.03%
+LeNet:2023-05-06 21:18:30,425 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.73%
+LeNet:2023-05-06 21:18:34,254 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.71%
+LeNet:2023-05-06 21:19:05,711 Epoch [28/30], Loss: 0.0035
+LeNet:2023-05-06 21:19:22,663 Test Without Attack, Accuracy: 99.83%
+LeNet:2023-05-06 21:19:25,605 Test Without Attack, Accuracy: 99.02%
+LeNet:2023-05-06 21:19:29,276 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.48%
+LeNet:2023-05-06 21:19:32,990 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.92%
+LeNet:2023-05-06 21:19:36,714 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.59%
+LeNet:2023-05-06 21:19:40,571 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.54%
+LeNet:2023-05-06 21:20:12,542 Epoch [29/30], Loss: 0.0041
+LeNet:2023-05-06 21:20:29,620 Test Without Attack, Accuracy: 99.62%
+LeNet:2023-05-06 21:20:32,556 Test Without Attack, Accuracy: 98.84%
+LeNet:2023-05-06 21:20:36,072 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.25%
+LeNet:2023-05-06 21:20:39,836 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.83%
+LeNet:2023-05-06 21:20:43,450 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.46%
+LeNet:2023-05-06 21:20:47,038 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.44%
+LeNet:2023-05-06 21:21:19,673 Epoch [30/30], Loss: 0.0036
+LeNet:2023-05-06 21:21:40,509 Test Without Attack, Accuracy: 99.86%
+LeNet:2023-05-06 21:21:43,635 Test Without Attack, Accuracy: 98.92%
+LeNet:2023-05-06 21:21:48,057 Test With Attack, Method: fsgm, Epsilon: 0.05, Accuracy: 97.46%
+LeNet:2023-05-06 21:21:52,886 Test With Attack, Method: fsgm, Epsilon: 0.1, Accuracy: 95.91%
+LeNet:2023-05-06 21:21:57,100 Test With Attack, Method: fgm, Epsilon: 0.05, Accuracy: 98.45%
+LeNet:2023-05-06 21:22:00,901 Test With Attack, Method: fgm, Epsilon: 0.1, Accuracy: 98.38%
+LeNet:2023-05-06 21:22:00,901 Training completed. Best loss is 0.0031388167409793608, in epoch 25
+LeNet:2023-05-06 21:22:01,329 Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+LeNet:2023-05-06 21:22:01,330 NumExpr defaulting to 8 threads.
