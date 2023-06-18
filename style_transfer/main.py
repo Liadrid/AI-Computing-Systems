@@ -5,6 +5,9 @@ from configs import Configs
 from PIL import Image
 from torchvision import transforms
 
+import torchvision.datasets as datasets
+from torch.utils.data import DataLoader
+
 
 def postprocess(img):
     img = img[0].to(rgb_std.device)
@@ -23,4 +26,3 @@ if __name__ == '__main__':
     output = postprocess(output)
     output.show()
     output.save("images/syn_images/output.png")
-

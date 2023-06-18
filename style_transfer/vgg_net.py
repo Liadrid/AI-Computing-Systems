@@ -3,21 +3,20 @@ from collections import namedtuple
 import torch
 from torchvision import models
 from torch import nn
+from torchvision.models import VGG16_Weights
 
 
 class Vgg16(nn.Module):
     """
     VGG16 在快速风格迁移中用于计算损失
     """
-
-    def __init__(self, require_grad=False):
+    def __init__(self, requires_grad=False):
         super(Vgg16, self).__init__()
-        vgg_pretrained_features = models.vgg16(pretrained=True)
-        self.slice1 = torch.nn.Sequential()  # relu1_2
-        self.slice2 = torch.nn.Sequential()  # relu2_2
-        self.slice3 = torch.nn.Sequential()  # relu3_3
-        self.slice4 = torch.nn.Sequential()  # relu4_#
-
+        vgg_pretrained_features = models.vgg16(weights=VGG16_Weights.IMAGENET1K_V1).features
+        self.slice1 = torch.nn.Sequential()
+        self.slice2 = torch.nn.Sequential()
+        self.slice3 = torch.nn.Sequential()
+        self.slice4 = torch.nn.Sequential()
         for x in range(4):
             self.slice1.add_module(str(x), vgg_pretrained_features[x])
         for x in range(4, 9):
@@ -26,7 +25,7 @@ class Vgg16(nn.Module):
             self.slice3.add_module(str(x), vgg_pretrained_features[x])
         for x in range(16, 23):
             self.slice4.add_module(str(x), vgg_pretrained_features[x])
-        if not require_grad:
+        if not requires_grad:
             for param in self.parameters():
                 param.requires_grad = False
 
