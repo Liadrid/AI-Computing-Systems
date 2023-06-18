@@ -2,15 +2,15 @@ import argparse
 
 
 class Configs:
-    def __init__(self, model='LeNet', attack='fsgm'):
+    def __init__(self, model='LeNet'):
         self.lr = 0.001
         self.num_epochs = 30
         self.device = 'cuda'
         self.seed = 1
         self.save_path = f'./{model}/model_save.pth'
         self.model = model
-        self.attack = attack
         self.epsilon = 0.1
+        self.adverse_train = True
 
     def parse(self):
         parser = argparse.ArgumentParser()
@@ -19,8 +19,7 @@ class Configs:
         parser.add_argument('-lr', type=float)
         parser.add_argument('-seed', type=int)
         parser.add_argument('-save_path', type=str)
-        parser.add_argument('-model', type=str, choices=['LeNet'])
-        parser.add_argument('-attack', type=str, choices=['fsgm', 'fgm'])
+        parser.add_argument('-model', type=str, choices=['LeNet', 'ResNet'])
         parser.add_argument('-epsilon', type=float)
 
         args = parser.parse_args()

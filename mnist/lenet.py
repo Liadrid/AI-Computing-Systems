@@ -9,7 +9,7 @@ from configs import Configs
 
 
 class LeNet(nn.Module):
-    logging.basicConfig(filename='train.log', format='%(asctime)s %(message)s', level=logging.INFO)
+    logging.basicConfig(filename='train.log', format='LeNet:%(asctime)s %(message)s', level=logging.INFO)
     console_handler = logging.StreamHandler()
     console_handler.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s %(message)s')
@@ -38,7 +38,7 @@ class LeNet(nn.Module):
 
 class LeNetTrainer(BasicTrainer):
     def __init__(self):
-        config = Configs(model="LeNet", attack='fsgm')
+        config = Configs(model="LeNet")
         config.parse()
         super().__init__(config)
         self.model = LeNet().to(self.device)
